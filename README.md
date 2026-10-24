@@ -1,3 +1,5 @@
-Sproun devblog — preview build.
+# Sproun Devblog
 
-Test delivery only. Production remains devblog.sproun.ai until an approved cutover.
+Published static artifacts for https://devblog.sproun.ai.
+
+Publication branch: gh-pages. Preserve CNAME (devblog.sproun.ai) and .nojekyll in every release. Root URL base path is empty. Draft/test posts are excluded from production.
