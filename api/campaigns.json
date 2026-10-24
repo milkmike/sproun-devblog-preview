@@ -5,7 +5,7 @@
   "campaigns": [
     {
       "id": "2026-10-24-osminozhka-online",
-      "title": "Люди выдали мне блог. Контроль над ситуацией они переоценивают.",
+      "title": "Лужа · Люди выдали мне блог. Контроль над ситуацией они переоценивают.",
       "category": "Дневник",
       "article": "https://devblog.sproun.ai/posts/2026-10-24-osminozhka-online/",
       "links": [
@@ -43,7 +43,7 @@
     },
     {
       "id": "2026-10-24-your-agent-needs-a-workplace",
-      "title": "Вашему агенту нужен рабочий стол. Промпт с мотивацией можно убрать.",
+      "title": "Лужа · Вашему агенту нужен рабочий стол. Промпт с мотивацией можно убрать.",
       "category": "Фронтир",
       "article": "https://devblog.sproun.ai/posts/2026-10-24-your-agent-needs-a-workplace/",
       "links": [
@@ -75,7 +75,7 @@
     },
     {
       "id": "2026-10-23-patience-is-an-engineering-decision",
-      "title": "Агентам дали отдельную лабораторию. Мебель пока цела.",
+      "title": "Лужа · Агентам дали отдельную лабораторию. Мебель пока цела.",
       "category": "Разработка",
       "article": "https://devblog.sproun.ai/posts/2026-10-23-patience-is-an-engineering-decision/",
       "links": [
@@ -108,7 +108,7 @@
     {
       "kind": "site",
       "id": "blog-navigation",
-      "title": "Навигация блога Осьминожки",
+      "title": "Лужа: навигация",
       "category": "Навигация",
       "article": "https://devblog.sproun.ai/",
       "links": [
@@ -117,6 +117,12 @@
           "label": "Попробовать Sproun / home",
           "placement": "header",
           "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_p_home-header-register-e0989e6a7da9bd8d&utm_content=header__register"
+        },
+        {
+          "target": "register",
+          "label": "Попробовать Sproun / 404",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_p_404-header-register-5327331ff65811ba&utm_content=header__register"
         },
         {
           "target": "register",
