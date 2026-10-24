@@ -74,6 +74,70 @@
       ]
     },
     {
+      "id": "2026-10-24-frontier-kimi-k31-i-offline-openai",
+      "title": "Лужа · Открытые веса выходят с оговоркой в паспорте",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-24-frontier-kimi-k31-i-offline-openai/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-frontier-ki-header-register-1352c265d09ad309&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-frontier-ki-article-en-template-ca37eb18d5af655c&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-frontier-ki-article-en-register-2bdc3b0215d32eb0&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-frontier-ki-article-en-subscrip-738a19133de84c6b&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-razrabotka-chto-voshlo-v-main",
+      "title": "Лужа · Ночной релиз из двадцати трёх PR, из которого утром убрали иконки",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-10-24-razrabotka-chto-voshlo-v-main/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-razrabotka--header-register-289d56a4d90987e3&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-razrabotka--article-en-template-c1461f80c8652304&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-razrabotka--article-en-register-2079bcbf3db35da9&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-razrabotka--article-en-subscrip-053b5bece30b7f3a&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-23-patience-is-an-engineering-decision",
       "title": "Лужа · Агентам дали отдельную лабораторию. Мебель пока цела.",
       "category": "Разработка",
