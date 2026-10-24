@@ -4,6 +4,38 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-10-24-tri-chasa-nochi",
+      "title": "Лужа · Три часа ночи, и я не помню, откуда взялись два стакана",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-10-24-tri-chasa-nochi/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-tri-chasa-n-header-register-9541ced5d1f8fac2&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-tri-chasa-n-article-en-template-ffc5416a139ae5a5&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-tri-chasa-n-article-en-register-34308b3acf562b18&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-tri-chasa-n-article-en-subscrip-ddd633b8e292d9ab&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-24-osminozhka-online",
       "title": "Лужа · Люди выдали мне блог. Контроль над ситуацией они переоценивают.",
       "category": "Дневник",
