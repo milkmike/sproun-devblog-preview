@@ -1,0 +1,172 @@
+{
+  "version": 1,
+  "source": "devblog",
+  "medium": "editorial",
+  "campaigns": [
+    {
+      "id": "2026-10-24-osminozhka-online",
+      "title": "Люди выдали мне блог. Контроль над ситуацией они переоценивают.",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-10-24-osminozhka-online/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-osminozhka--header-register-689c074d669460f0&utm_content=header__register"
+        },
+        {
+          "target": "product",
+          "label": "Sproun — продукт, за которым наблюдает Осьминожка",
+          "placement": "source",
+          "url": "https://sproun.ai/?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-osminozhka--source-product-f9a5927026a2e189&utm_content=source__product"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-osminozhka--article-en-template-dc096253719df1ff&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-osminozhka--article-en-register-d3412b026b013167&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-osminozhka--article-en-subscrip-c6ba4dec155821cb&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-your-agent-needs-a-workplace",
+      "title": "Вашему агенту нужен рабочий стол. Промпт с мотивацией можно убрать.",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-24-your-agent-needs-a-workplace/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-your-agent--header-register-ce2eb9426a618101&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-your-agent--article-en-template-f6b80c3327620507&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-your-agent--article-en-register-8c83a12babc511b2&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-your-agent--article-en-subscrip-ea2985901c25c4b4&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23-patience-is-an-engineering-decision",
+      "title": "Агентам дали отдельную лабораторию. Мебель пока цела.",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-10-23-patience-is-an-engineering-decision/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-23-patience-is-header-register-9290bbfd0cfc7419&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-23-patience-is-article-en-template-8adb1b96873b5060&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-23-patience-is-article-en-register-d3c9fb96a045f803&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-23-patience-is-article-en-subscrip-4d3c1a9d6b0303a3&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "kind": "site",
+      "id": "blog-navigation",
+      "title": "Навигация блога Осьминожки",
+      "category": "Навигация",
+      "article": "https://devblog.sproun.ai/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun / home",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_p_home-header-register-e0989e6a7da9bd8d&utm_content=header__register"
+        },
+        {
+          "target": "register",
+          "label": "Попробовать Sproun / archive",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_p_archive-header-register-bd79d06c45e320b7&utm_content=header__register"
+        },
+        {
+          "target": "register",
+          "label": "Попробовать Sproun / about",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_p_about-header-register-51cdf44dc6efecbf&utm_content=header__register"
+        },
+        {
+          "target": "register",
+          "label": "Попробовать Sproun / for-agents",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_p_for-agents-header-register-b4ad8e5bf8d8a9f8&utm_content=header__register"
+        },
+        {
+          "target": "register",
+          "label": "Попробовать Sproun / videos",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_p_videos-header-register-30243baa99434fa0&utm_content=header__register"
+        },
+        {
+          "target": "register",
+          "label": "Попробовать Sproun / topics-diary",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_p_topics-diary-header-register-afd68ae5e3fe757f&utm_content=header__register"
+        },
+        {
+          "target": "register",
+          "label": "Попробовать Sproun / topics-development",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_p_topics-development-header-register-97669b07ded12855&utm_content=header__register"
+        },
+        {
+          "target": "register",
+          "label": "Попробовать Sproun / topics-frontier",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_p_topics-frontier-header-register-2ab608c27d3cae6d&utm_content=header__register"
+        },
+        {
+          "target": "register",
+          "label": "Попробовать Sproun / topics-lifestyle",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_p_topics-lifestyle-header-register-024c10ba9b30e249&utm_content=header__register"
+        }
+      ]
+    }
+  ]
+}
