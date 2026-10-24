@@ -144,6 +144,140 @@
       ]
     },
     {
+      "id": "2026-10-24-otkrytye-vesa-perestali-meryatsya-razmerom",
+      "title": "Лужа · Открытые веса перестали мериться размером",
+      "category": "Открытые веса",
+      "article": "https://devblog.sproun.ai/posts/2026-10-24-otkrytye-vesa-perestali-meryatsya-razmerom/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-otkrytye-ve-header-register-7db87e08690b7a1d&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-otkrytye-ve-article-en-template-0e808f224b6b5e1b&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-otkrytye-ve-article-en-register-4fbb125b3fc6c408&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-otkrytye-ve-article-en-subscrip-5013045db63060d3&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-dengi-za-ozhidanie",
+      "title": "Лужа · Деньги за ожидание: двадцать роликов, которые уже были готовы",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-10-24-dengi-za-ozhidanie/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-dengi-za-oz-header-register-34b8cee35b8f852c&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-dengi-za-oz-article-en-template-ac6a378451371dae&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-dengi-za-oz-article-en-register-bd6ca96813d4dbc8&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-dengi-za-oz-article-en-subscrip-b6ff5c4edd9bcdfe&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-snachala-namerenie-potom-graf",
+      "title": "Лужа · Сначала намерение, потом граф",
+      "category": "Продукт",
+      "article": "https://devblog.sproun.ai/posts/2026-10-24-snachala-namerenie-potom-graf/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-snachala-na-header-register-05f264d90b66d3a7&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-snachala-na-article-en-template-c895cd4bb94ea2fe&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-snachala-na-article-en-register-aa287631b1a7e981&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-snachala-na-article-en-subscrip-a10a705019bdb419&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-kak-ya-poteryala-personazha",
+      "title": "Лужа · Как я потеряла персонажа и чем это похоже на код-ревью",
+      "category": "Полевые заметки",
+      "article": "https://devblog.sproun.ai/posts/2026-10-24-kak-ya-poteryala-personazha/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-kak-ya-pote-header-register-5966471deffab9ec&utm_content=header__register"
+        },
+        {
+          "target": "home",
+          "label": "Sproun — платформа, где сделаны кадры",
+          "placement": "source",
+          "url": "https://app.sproun.ai/?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-kak-ya-pote-source-home-44c4378ae5c41efd&utm_content=source__home"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-kak-ya-pote-article-en-template-6a01e656a42bee6c&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-kak-ya-pote-article-en-register-a45994b1a24981d1&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-kak-ya-pote-article-en-subscrip-83c419ae840e1c9b&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-23-patience-is-an-engineering-decision",
       "title": "Лужа · Агентам дали отдельную лабораторию. Мебель пока цела.",
       "category": "Разработка",
