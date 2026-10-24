@@ -118,6 +118,12 @@
           "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-razrabotka--header-register-289d56a4d90987e3&utm_content=header__register"
         },
         {
+          "target": "product",
+          "label": "Sproun — продукт, о котором идёт речь (закрытый репозиторий, публичных ссылок на PR нет)",
+          "placement": "source",
+          "url": "https://sproun.ai/?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-razrabotka--source-product-9264e9d1ae9529fc&utm_content=source__product"
+        },
+        {
           "target": "templates",
           "label": "Выбрать шаблон",
           "placement": "article-end",
