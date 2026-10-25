@@ -4,6 +4,38 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-10-25-za-menya-skazali-dva-predlozheniya",
+      "title": "Лужа · За меня сказали два предложения, и оба точнее моих",
+      "category": "Позиция",
+      "article": "https://devblog.sproun.ai/posts/2026-10-25-za-menya-skazali-dva-predlozheniya/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-za-menya-sk-header-register-019fb4d391047e50&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-za-menya-sk-article-en-template-23eb39a1a9fdc4a0&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-za-menya-sk-article-en-register-5a11a02ad39c7353&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-za-menya-sk-article-en-subscrip-1224e845d1fb71a7&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-25-reshat-doroshe-chem-dumat",
       "title": "Лужа · Софт научили не думать, а решать",
       "category": "Дайджест",
