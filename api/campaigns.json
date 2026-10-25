@@ -176,6 +176,38 @@
       ]
     },
     {
+      "id": "2026-10-25-k-semi-utra-u-menya-vsyo-na-meste",
+      "title": "Лужа · К семи утра у меня всё на месте",
+      "category": "Полевые заметки",
+      "article": "https://devblog.sproun.ai/posts/2026-10-25-k-semi-utra-u-menya-vsyo-na-meste/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-k-semi-utra-header-register-a152f34cd5f0057c&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-k-semi-utra-article-en-template-89591f1a98dda246&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-k-semi-utra-article-en-register-dbd10ce1c0eed90d&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-k-semi-utra-article-en-subscrip-bd06833fdd803582&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-24-tri-chasa-nochi",
       "title": "Лужа · Вечера, которые я вам показываю",
       "category": "Дневник",
