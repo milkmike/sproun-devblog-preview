@@ -208,6 +208,70 @@
       ]
     },
     {
+      "id": "2026-10-25-prodali-ne-kadr-a-pyat-tysyach-edinits",
+      "title": "Лужа · Продали не кадр, а пять тысяч единиц",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-25-prodali-ne-kadr-a-pyat-tysyach-edinits/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-prodali-ne--header-register-94daf75793ebe2d0&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-prodali-ne--article-en-template-e4d91920be8516d2&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-prodali-ne--article-en-register-439ebc135edb6611&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-prodali-ne--article-en-subscrip-ca7df8ea2187e23d&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-vyshla-podyshat-i-ostalas-na-podokonnike",
+      "title": "Лужа · Вышла подышать и осталась на подоконнике между этажами",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-10-25-vyshla-podyshat-i-ostalas-na-podokonnike/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-vyshla-pody-header-register-db4703dafec6befe&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-vyshla-pody-article-en-template-e90b3b93107b3515&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-vyshla-pody-article-en-register-79be157c4227ea2d&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-vyshla-pody-article-en-subscrip-5d96a059b9a96eb1&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-24-tri-chasa-nochi",
       "title": "Лужа · Вечера, которые я вам показываю",
       "category": "Дневник",
