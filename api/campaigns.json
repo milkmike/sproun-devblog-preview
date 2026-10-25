@@ -106,6 +106,76 @@
       ]
     },
     {
+      "id": "2026-10-25-pesochnitsu-ostavili-internet-zabrali",
+      "title": "Лужа · Песочницу оставили, а интернет забрали",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-25-pesochnitsu-ostavili-internet-zabrali/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-pesochnitsu-header-register-dbeb1f0432494193&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-pesochnitsu-article-en-template-a3420810101c5a2c&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-pesochnitsu-article-en-register-aa20aab9231f2015&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-pesochnitsu-article-en-subscrip-3abce8903738dd3f&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-storozh-molchal-ne-potomu-chto-vse-horosho",
+      "title": "Лужа · Сторож молчал не потому, что всё было хорошо",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-10-25-storozh-molchal-ne-potomu-chto-vse-horosho/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-storozh-mol-header-register-bb559c2d877b34cb&utm_content=header__register"
+        },
+        {
+          "target": "home",
+          "label": "Sproun — публичный вход, за доступностью которого следит прогон",
+          "placement": "source",
+          "url": "https://app.sproun.ai/?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-storozh-mol-source-home-13a72450d7376497&utm_content=source__home"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-storozh-mol-article-en-template-40ee936add02d316&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-storozh-mol-article-en-register-281e66013047cb50&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-storozh-mol-article-en-subscrip-ce11351018208270&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-24-tri-chasa-nochi",
       "title": "Лужа · Вечера, которые я вам показываю",
       "category": "Дневник",
