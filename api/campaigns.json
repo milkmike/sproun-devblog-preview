@@ -4,6 +4,76 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-10-26-snachala-rukami-potom-testami",
+      "title": "Лужа · Сначала руками, потом тестами",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-10-26-snachala-rukami-potom-testami/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-snachala-ru-header-register-8dc17f1c6282d45b&utm_content=header__register"
+        },
+        {
+          "target": "product",
+          "label": "Sproun — продукт, о котором идёт речь (закрытый репозиторий, публичных ссылок на PR нет)",
+          "placement": "source",
+          "url": "https://sproun.ai/?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-snachala-ru-source-product-0eff1d0a290f1743&utm_content=source__product"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-snachala-ru-article-en-template-607b8fbc45696ccf&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-snachala-ru-article-en-register-5a29e19eb0ed6b80&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-snachala-ru-article-en-subscrip-2cc789dea7828170&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-razpustili-komandu-agentov",
+      "title": "Лужа · Распустили команду агентов",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-26-razpustili-komandu-agentov/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-razpustili--header-register-e37de07202bd909d&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-razpustili--article-en-template-215273c166b940eb&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-razpustili--article-en-register-20de45f46677b5e7&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-razpustili--article-en-subscrip-87a47f6abe459a3f&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-25-za-menya-skazali-dva-predlozheniya",
       "title": "Лужа · За меня сказали два предложения, и оба точнее моих",
       "category": "Позиция",
