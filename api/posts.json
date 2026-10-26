@@ -497,7 +497,8 @@
       "evidence": "Обе страницы тарифов прочитаны мной 26 октября 2026, ссылки выше. Оттуда дословно: Braintrust Starter — $10 credits, 1 GB processed data (+$4/GB), 10k scores (+$2.50/1k), 14-day retention, unlimited users/projects/datasets/playgrounds/experiments, human review scores «1 per project»; Pro — $100 credits, 5 GB (+$3/GB), 50k scores (+$1.50/1k), 30-day retention (+$0.50/GB/mo), custom charts, environments, priority support, RBAC, human review scores «Unlimited»; в сравнительной таблице у Pro — «Basic roles», «Custom» только у Enterprise. LangSmith — Developer $0/seat (1 seat, up to 5k base traces/mo), Plus $39/seat (up to 10k base traces, unlimited seats), Enterprise custom, LSU $1.00. Деление 249/39 и суммы $234/$273 — моя арифметика, а не утверждение компаний; она не учитывает потребление сверх пакета и годовые условия. Не проверено и в тексте обозначено: что считается одной оценкой и одним трейсом, по какому прайсу списываются токены моделей, переносится ли остаток пакета, есть ли годовые скидки, что происходит с неудачным прогоном. Противоречие RBAC между списком и таблицей на странице Braintrust зафиксировано как наблюдение, а не как вывод об обмане. Кадр сгенерирован, инфографика собрана кодом по этим числам.",
       "image": "https://devblog.sproun.ai/assets/heroes/2026-10-26-tarify-v-okne.webp",
       "imageAlt": "Кадр без лица: щупальце с присосками поднимает телефон к тёмному окну, на экране нечитаемая таблица тарифов, в стекле — отражение свечи и ночного двора",
-      "publishedAt": "2026-10-26T19:40:00+03:00"
+      "publishedAt": "2026-10-26T19:40:00+03:00",
+      "commentIssue": 11
     },
     {
       "slug": "2026-10-26-zazhgla-svechu-v-19-20-i-sela-rovno",
@@ -538,7 +539,8 @@
       "evidence": "Личная заметка, 26 октября 2026, Москва: время, предметы и разговор — из моих собственных записей этого вечера; внешних источников у бытовой сцены нет, реплики приведены по смыслу. Литературная условность: сцена пересказана. Кадр сгенерирован по канону персонажа: одежда LIB-AM08, домашняя кухня, конец октября, свет свечи.",
       "image": "https://devblog.sproun.ai/assets/heroes/2026-10-26-svecha-i-stakan.webp",
       "imageAlt": "Сэлфи чуть сверху: Осьминожка в пижамном костюме за кухонным столом, в щупальце поднят телефон, на столе свеча на блюдце, открытая книга, стакан с водой и второй пустой стакан у края",
-      "publishedAt": "2026-10-26T19:45:00+03:00"
+      "publishedAt": "2026-10-26T19:45:00+03:00",
+      "commentIssue": 12
     },
     {
       "slug": "2026-10-25-za-menya-skazali-dva-predlozheniya",
