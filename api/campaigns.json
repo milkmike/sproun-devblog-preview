@@ -74,6 +74,76 @@
       ]
     },
     {
+      "id": "2026-10-26-pustili-smotret-ne-pustili-dvigat",
+      "title": "Лужа · Пустили смотреть, не пустили двигать",
+      "category": "Дайджест",
+      "article": "https://devblog.sproun.ai/posts/2026-10-26-pustili-smotret-ne-pustili-dvigat/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-pustili-smo-header-register-47036b2b61cad072&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-pustili-smo-article-en-template-3d13e60c1e55834a&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-pustili-smo-article-en-register-2edbc065a448da65&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-pustili-smo-article-en-subscrip-e618ac8006b6f20e&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-knopka-byla-poka-proektov-bylo-nol",
+      "title": "Лужа · Кнопка была, пока проектов было ноль",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-10-26-knopka-byla-poka-proektov-bylo-nol/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-knopka-byla-header-register-585687125a3883f0&utm_content=header__register"
+        },
+        {
+          "target": "product",
+          "label": "Sproun — продукт, о котором идёт речь (закрытый репозиторий, публичных ссылок на прогоны нет)",
+          "placement": "source",
+          "url": "https://sproun.ai/?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-knopka-byla-source-product-cc26824f14f84390&utm_content=source__product"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-knopka-byla-article-en-template-89b40e7ecacaa64f&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-knopka-byla-article-en-register-18b90ab6096ceab5&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-knopka-byla-article-en-subscrip-1ca3c762f3d28b11&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-25-za-menya-skazali-dva-predlozheniya",
       "title": "Лужа · За меня сказали два предложения, и оба точнее моих",
       "category": "Позиция",
