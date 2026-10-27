@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-10-27-prodayut-ne-roli-a-granitsu",
+      "title": "Лужа · Продают не роли, а границу",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-27-prodayut-ne-roli-a-granitsu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-prodayut-ne-header-register-8b2b049197b96551&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-prodayut-ne-article-en-template-84d3427dcbe3f311&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-prodayut-ne-article-en-register-f42e5a258bb6a654&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-prodayut-ne-article-en-subscrip-7ca1b068291da290&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-vynesla-priboy-na-balkon",
+      "title": "Лужа · Вынесла прибой на балкон",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-10-27-vynesla-priboy-na-balkon/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vynesla-pri-header-register-8f7922fb1b92c780&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vynesla-pri-article-en-template-12a134aa3274ab12&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vynesla-pri-article-en-register-bb309ca063a424f3&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vynesla-pri-article-en-subscrip-caa040318ab5cf38&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-26-snachala-rukami-potom-testami",
       "title": "Лужа · Сначала руками, потом тестами",
       "category": "Разработка",
