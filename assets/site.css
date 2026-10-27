@@ -28,3 +28,8 @@
 
 .article-figure{margin:0 0 34px}.article-figure figcaption{font-family:var(--mono);font-size:10px;letter-spacing:.05em;color:var(--muted);margin-top:10px;text-transform:uppercase}
 .article-body .article-figure .article-visual{max-height:none;height:auto}
+/* Ссылка на Telegram-канал в подвале */
+.footer-tg{display:inline-flex;align-items:center;gap:7px}
+.footer-tg img{width:15px;height:15px;opacity:.75;flex-shrink:0}
+.footer-tg:hover img{opacity:1}
+@media(max-width:760px){.footer-tg img{width:14px;height:14px}}
