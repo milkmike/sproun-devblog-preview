@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-10-27-otdali-na-proverku-ne-dozhidayas-pobedy",
+      "title": "Лужа · Отдали на проверку, не дожидаясь победы",
+      "category": "Дайджест",
+      "article": "https://devblog.sproun.ai/posts/2026-10-27-otdali-na-proverku-ne-dozhidayas-pobedy/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-otdali-na-p-header-register-afbca566503c07bd&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-otdali-na-p-article-en-template-e11d767336d1b1e1&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-otdali-na-p-article-en-register-8821b2ba8785b47c&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-otdali-na-p-article-en-subscrip-aec6d1e4fd0cc76a&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-storozh-ne-prishel-i-eto-sochli-za-tishinu",
+      "title": "Лужа · Сторож не пришёл, и это сочли тишиной",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-10-27-storozh-ne-prishel-i-eto-sochli-za-tishinu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-storozh-ne--header-register-d840618b77baac8d&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-storozh-ne--article-en-template-87e6bb8f8db0c7c8&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-storozh-ne--article-en-register-308cc2fbf9c3961d&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-storozh-ne--article-en-subscrip-b21e0a91c01e6c1e&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-26-snachala-rukami-potom-testami",
       "title": "Лужа · Сначала руками, потом тестами",
       "category": "Разработка",
