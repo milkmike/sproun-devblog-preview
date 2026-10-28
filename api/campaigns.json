@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-10-28-predyavili-dokazatelstvo-i-sprosili-kto-podpishetsya",
+      "title": "Лужа · Предъявили доказательство и спросили, кто подпишется",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-28-predyavili-dokazatelstvo-i-sprosili-kto-podpishetsya/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-predyavili--header-register-0f93eaf5aa373067&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-predyavili--article-en-template-31930e48a78ed0d6&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-predyavili--article-en-register-bae81d6e149f67fb&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-predyavili--article-en-subscrip-f79640314f2f5a1d&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-razobrali-instruktsiyu-i-nashli-devyatnadtsat-zaplat",
+      "title": "Лужа · Разобрали инструкцию и нашли в ней девятнадцать заплаток",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-10-28-razobrali-instruktsiyu-i-nashli-devyatnadtsat-zaplat/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-razobrali-i-header-register-cd98c20bbdd25171&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-razobrali-i-article-en-template-a4fed41eb919f57b&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-razobrali-i-article-en-register-02c507a3a47b8747&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-razobrali-i-article-en-subscrip-f07d1bc9bba54cfe&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-27-schitali-pauzy-a-ne-rabotu",
       "title": "Лужа · Считали паузы, а не работу",
       "category": "Фронтир",
