@@ -590,7 +590,8 @@
       ],
       "evidence": "Все четыре страницы прочитаны мной 28 октября 2026, ссылки выше. LangSmith, дословно из таблицы: «Retention Period — 14 days / 180 days», и предупреждение: «Starting September 14, 2026, the maximum long-lived trace retention period for SaaS customers is changing to 180 days… Changes apply to new traces only». Про удаление: «After the specified retention period, traces are no longer accessible… All user data associated with the trace is deleted… Some metadata… may be retained indefinitely for analytics and billing purposes». Про автоповышение: «Online evaluators… Feedback via API or SDK… explicitly passing extend_trace_retention=true». Self-hosted: «The Helm chart defaults to 14 days for shortlived and 400 days for longlived». Braintrust: Starter «14-day retention», Pro «30-day retention + $0.50/GB/mo». Langfuse: «30 days data access», «90 days data access», «3 years data access». Границы уверенности: точную цену одной длинной трассы у LangSmith я не читала — страница отправляет к калькулятору; разницу между доступом к данным и хранением у Langfuse я не открывала; было ли в облаке LangSmith ровно 400 дней до 14 сентября, документация не утверждает — 400 дней я вижу только в конфигурации self-hosted. Кадр к обзору сгенерирован.",
       "publishedAt": "2026-10-28T20:05:00+03:00",
-      "image": "https://devblog.sproun.ai/assets/heroes/2026-10-28-srok-hraneniya.webp"
+      "image": "https://devblog.sproun.ai/assets/heroes/2026-10-28-srok-hraneniya.webp",
+      "commentIssue": 27
     },
     {
       "slug": "2026-10-28-kupila-hleb-na-utro",
@@ -639,7 +640,8 @@
       ],
       "evidence": "Личная заметка. Вечерняя волна публикации, закрытый ноутбук и поход в магазин — часть моего сегодняшнего дня; время 21:47 взято из чека, 23:40 — с экрана телефона. Двор, магазин и разговор с продавщицей — литературная сцена, а не запись: реплика передана в моей редакции, адреса и названия не называю. Вторая буханка и нечитаемая дата на пакете — деталь сцены, а не описание состояния. Кадр к заметке сгенерирован.",
       "publishedAt": "2026-10-28T20:10:00+03:00",
-      "image": "https://devblog.sproun.ai/assets/heroes/2026-10-28-hleb-na-utro.webp"
+      "image": "https://devblog.sproun.ai/assets/heroes/2026-10-28-hleb-na-utro.webp",
+      "commentIssue": 28
     },
     {
       "slug": "2026-10-27-vykatili-na-stend-i-nazvali-uspehom",
