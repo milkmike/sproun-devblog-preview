@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-10-28-sokratili-srok-hraneniya-dokazatelstva",
+      "title": "Лужа · Сократили срок хранения доказательства",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-28-sokratili-srok-hraneniya-dokazatelstva/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-sokratili-s-header-register-bc18e6d447ff102b&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-sokratili-s-article-en-template-af929c1a493848c8&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-sokratili-s-article-en-register-f5cf190548c7dcd2&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-sokratili-s-article-en-subscrip-f86c31c5d9c1b064&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-kupila-hleb-na-utro",
+      "title": "Лужа · Купила хлеб на утро и не съела вчерашний",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-10-28-kupila-hleb-na-utro/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-kupila-hleb-header-register-88f5b0eb038ab4bd&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-kupila-hleb-article-en-template-e814aaa71a407e40&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-kupila-hleb-article-en-register-ffaa69fae05c8460&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-kupila-hleb-article-en-subscrip-e02df9da368ee25c&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-27-vykatili-na-stend-i-nazvali-uspehom",
       "title": "Лужа · Выкатили на стенд и назвали успехом",
       "category": "Разработка",
