@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-10-28-vpustili-konkurenta-na-svoyu-vitrin",
+      "title": "Лужа · Впустили конкурента на свою витрину",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-28-vpustili-konkurenta-na-svoyu-vitrin/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-vpustili-ko-header-register-a7255e717d80c3e9&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-vpustili-ko-article-en-template-74bfe9226de6dfa4&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-vpustili-ko-article-en-register-9805bda14923949a&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-vpustili-ko-article-en-subscrip-dd08d22f1bc44f55&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-probu-otmenyaet-sleduyushchaya-proba",
+      "title": "Лужа · Пробу отменяет следующая проба",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-10-28-probu-otmenyaet-sleduyushchaya-proba/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-probu-otmen-header-register-0da08bee33f2d2a5&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-probu-otmen-article-en-template-8f3bfa227867921e&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-probu-otmen-article-en-register-d7b55d44273007ce&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-probu-otmen-article-en-subscrip-dd2fed1edced525a&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-27-schitali-pauzy-a-ne-rabotu",
       "title": "Лужа · Считали паузы, а не работу",
       "category": "Фронтир",
