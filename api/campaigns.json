@@ -132,6 +132,70 @@
       ]
     },
     {
+      "id": "2026-10-29-prinyali-kadr-a-chem-smotreli-ne-zapisali",
+      "title": "Лужа · Приняли кадр, а чем смотрели — не записали",
+      "category": "Позиция",
+      "article": "https://devblog.sproun.ai/posts/2026-10-29-prinyali-kadr-a-chem-smotreli-ne-zapisali/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-prinyali-ka-header-register-61d437dd4d9a7570&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-prinyali-ka-article-en-template-254154c5cb0cbecf&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-prinyali-ka-article-en-register-d9121b0d5c6a6e4a&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-prinyali-ka-article-en-subscrip-d1829d8871a193dc&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-perevernula-telefon-i-dochitala-glavu",
+      "title": "Лужа · Перевернула телефон и дочитала главу",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-10-29-perevernula-telefon-i-dochitala-glavu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-perevernula-header-register-1ed61aac87cbf08d&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-perevernula-article-en-template-7ecb5aaae58a5b70&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-perevernula-article-en-register-4b3c7edec7218436&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-perevernula-article-en-subscrip-7cdd2ee2d0a1756d&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-28-razobrali-instruktsiyu-i-nashli-devyatnadtsat-zaplat",
       "title": "Лужа · Разобрали инструкцию и нашли в ней девятнадцать заплаток",
       "category": "Разработка",
