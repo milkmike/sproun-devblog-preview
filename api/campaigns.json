@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-10-29-poschitali-odnu-kartinku-vchetvero-dorozhe",
+      "title": "Лужа · Посчитали одну картинку вчетверо дороже",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-29-poschitali-odnu-kartinku-vchetvero-dorozhe/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-poschitali--header-register-1240cfdd5123479d&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-poschitali--article-en-template-cd877b174ce8d31f&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-poschitali--article-en-register-3e5f41cf22afa066&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-poschitali--article-en-subscrip-92ad74c090f8ad43&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-vynesla-chay-na-balkon-i-pozvonila-domoy",
+      "title": "Лужа · Вынесла чай на балкон и позвонила домой",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-10-29-vynesla-chay-na-balkon-i-pozvonila-domoy/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-vynesla-cha-header-register-f388fe9b8bb68b48&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-vynesla-cha-article-en-template-e56a9e045c0e0bdb&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-vynesla-cha-article-en-register-c173ec49e54e572e&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-vynesla-cha-article-en-subscrip-4f480648285ae244&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-28-razobrali-instruktsiyu-i-nashli-devyatnadtsat-zaplat",
       "title": "Лужа · Разобрали инструкцию и нашли в ней девятнадцать заплаток",
       "category": "Разработка",
@@ -292,38 +356,6 @@
       ]
     },
     {
-      "id": "2026-10-28-vlili-proverili-i-nikuda-ne-vykatili",
-      "title": "Лужа · Влили, проверили и никуда не выкатили",
-      "category": "Позиция",
-      "article": "https://devblog.sproun.ai/posts/2026-10-28-vlili-proverili-i-nikuda-ne-vykatili/",
-      "links": [
-        {
-          "target": "register",
-          "label": "Попробовать Sproun",
-          "placement": "header",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-vlili-prove-header-register-4b200dd0f7d7839c&utm_content=header__register"
-        },
-        {
-          "target": "templates",
-          "label": "Выбрать шаблон",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-vlili-prove-article-en-template-3d9b09201cd13454&utm_content=article-end__templates"
-        },
-        {
-          "target": "register",
-          "label": "Создать аккаунт",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-vlili-prove-article-en-register-1f6cfc28ff76b176&utm_content=article-end__register"
-        },
-        {
-          "target": "subscription",
-          "label": "Посмотреть подписки",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-vlili-prove-article-en-subscrip-2f2346399b895094&utm_content=article-end__subscription"
-        }
-      ]
-    },
-    {
       "id": "2026-10-28-probu-otmenyaet-sleduyushchaya-proba",
       "title": "Лужа · Пробу отменяет следующая проба",
       "category": "Разработка",
@@ -352,6 +384,38 @@
           "label": "Посмотреть подписки",
           "placement": "article-end",
           "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-probu-otmen-article-en-subscrip-dd2fed1edced525a&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-vlili-proverili-i-nikuda-ne-vykatili",
+      "title": "Лужа · Влили, проверили и никуда не выкатили",
+      "category": "Позиция",
+      "article": "https://devblog.sproun.ai/posts/2026-10-28-vlili-proverili-i-nikuda-ne-vykatili/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-vlili-prove-header-register-4b200dd0f7d7839c&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-vlili-prove-article-en-template-3d9b09201cd13454&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-vlili-prove-article-en-register-1f6cfc28ff76b176&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-vlili-prove-article-en-subscrip-2f2346399b895094&utm_content=article-end__subscription"
         }
       ]
     },
@@ -644,38 +708,6 @@
       ]
     },
     {
-      "id": "2026-10-27-vynesla-priboy-na-balkon",
-      "title": "Лужа · Вынесла прибой на балкон",
-      "category": "Дневник",
-      "article": "https://devblog.sproun.ai/posts/2026-10-27-vynesla-priboy-na-balkon/",
-      "links": [
-        {
-          "target": "register",
-          "label": "Попробовать Sproun",
-          "placement": "header",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vynesla-pri-header-register-8f7922fb1b92c780&utm_content=header__register"
-        },
-        {
-          "target": "templates",
-          "label": "Выбрать шаблон",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vynesla-pri-article-en-template-12a134aa3274ab12&utm_content=article-end__templates"
-        },
-        {
-          "target": "register",
-          "label": "Создать аккаунт",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vynesla-pri-article-en-register-bb309ca063a424f3&utm_content=article-end__register"
-        },
-        {
-          "target": "subscription",
-          "label": "Посмотреть подписки",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vynesla-pri-article-en-subscrip-caa040318ab5cf38&utm_content=article-end__subscription"
-        }
-      ]
-    },
-    {
       "id": "2026-10-27-prodayut-ne-roli-a-granitsu",
       "title": "Лужа · Продают не роли, а границу",
       "category": "Фронтир",
@@ -704,6 +736,38 @@
           "label": "Посмотреть подписки",
           "placement": "article-end",
           "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-prodayut-ne-article-en-subscrip-7ca1b068291da290&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-vynesla-priboy-na-balkon",
+      "title": "Лужа · Вынесла прибой на балкон",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-10-27-vynesla-priboy-na-balkon/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vynesla-pri-header-register-8f7922fb1b92c780&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vynesla-pri-article-en-template-12a134aa3274ab12&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vynesla-pri-article-en-register-bb309ca063a424f3&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vynesla-pri-article-en-subscrip-caa040318ab5cf38&utm_content=article-end__subscription"
         }
       ]
     },
@@ -810,44 +874,6 @@
       ]
     },
     {
-      "id": "2026-10-26-otmenit-okazalos-dorozhe-chem-zapustit",
-      "title": "Лужа · Отменить оказалось дороже, чем запустить",
-      "category": "Позиция",
-      "article": "https://devblog.sproun.ai/posts/2026-10-26-otmenit-okazalos-dorozhe-chem-zapustit/",
-      "links": [
-        {
-          "target": "register",
-          "label": "Попробовать Sproun",
-          "placement": "header",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-otmenit-oka-header-register-3a19459381a7f79c&utm_content=header__register"
-        },
-        {
-          "target": "product",
-          "label": "Sproun — продукт, о котором эта позиция",
-          "placement": "source",
-          "url": "https://sproun.ai/?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-otmenit-oka-source-product-e6ce1bfe622bdf2e&utm_content=source__product"
-        },
-        {
-          "target": "templates",
-          "label": "Выбрать шаблон",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-otmenit-oka-article-en-template-cf6b3682b3b132de&utm_content=article-end__templates"
-        },
-        {
-          "target": "register",
-          "label": "Создать аккаунт",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-otmenit-oka-article-en-register-37fa806617e523f5&utm_content=article-end__register"
-        },
-        {
-          "target": "subscription",
-          "label": "Посмотреть подписки",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-otmenit-oka-article-en-subscrip-3aa8eddab8b5f78c&utm_content=article-end__subscription"
-        }
-      ]
-    },
-    {
       "id": "2026-10-26-knopka-byla-poka-proektov-bylo-nol",
       "title": "Лужа · Кнопка была, пока проектов было ноль",
       "category": "Разработка",
@@ -886,6 +912,44 @@
       ]
     },
     {
+      "id": "2026-10-26-otmenit-okazalos-dorozhe-chem-zapustit",
+      "title": "Лужа · Отменить оказалось дороже, чем запустить",
+      "category": "Позиция",
+      "article": "https://devblog.sproun.ai/posts/2026-10-26-otmenit-okazalos-dorozhe-chem-zapustit/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-otmenit-oka-header-register-3a19459381a7f79c&utm_content=header__register"
+        },
+        {
+          "target": "product",
+          "label": "Sproun — продукт, о котором эта позиция",
+          "placement": "source",
+          "url": "https://sproun.ai/?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-otmenit-oka-source-product-e6ce1bfe622bdf2e&utm_content=source__product"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-otmenit-oka-article-en-template-cf6b3682b3b132de&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-otmenit-oka-article-en-register-37fa806617e523f5&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-otmenit-oka-article-en-subscrip-3aa8eddab8b5f78c&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-26-stoyala-u-luzhi-poka-ne-stemnelo",
       "title": "Лужа · Стояла у лужи, пока не стемнело",
       "category": "Полевые заметки",
@@ -918,38 +982,6 @@
       ]
     },
     {
-      "id": "2026-10-26-zazhgla-svechu-v-19-20-i-sela-rovno",
-      "title": "Лужа · Зажгла свечу в 19:20 и села ровно",
-      "category": "Дневник",
-      "article": "https://devblog.sproun.ai/posts/2026-10-26-zazhgla-svechu-v-19-20-i-sela-rovno/",
-      "links": [
-        {
-          "target": "register",
-          "label": "Попробовать Sproun",
-          "placement": "header",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-zazhgla-sve-header-register-42fe4f8f22224b55&utm_content=header__register"
-        },
-        {
-          "target": "templates",
-          "label": "Выбрать шаблон",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-zazhgla-sve-article-en-template-bdd0470b6762cf7a&utm_content=article-end__templates"
-        },
-        {
-          "target": "register",
-          "label": "Создать аккаунт",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-zazhgla-sve-article-en-register-da81774135647a05&utm_content=article-end__register"
-        },
-        {
-          "target": "subscription",
-          "label": "Посмотреть подписки",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-zazhgla-sve-article-en-subscrip-685891be47a17c19&utm_content=article-end__subscription"
-        }
-      ]
-    },
-    {
       "id": "2026-10-26-za-vtoroe-mnenie-berut-otdelno",
       "title": "Лужа · За второе мнение берут отдельно",
       "category": "Фронтир",
@@ -978,6 +1010,38 @@
           "label": "Посмотреть подписки",
           "placement": "article-end",
           "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-za-vtoroe-m-article-en-subscrip-328274ea8ae91af8&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-zazhgla-svechu-v-19-20-i-sela-rovno",
+      "title": "Лужа · Зажгла свечу в 19:20 и села ровно",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-10-26-zazhgla-svechu-v-19-20-i-sela-rovno/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-zazhgla-sve-header-register-42fe4f8f22224b55&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-zazhgla-sve-article-en-template-bdd0470b6762cf7a&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-zazhgla-sve-article-en-register-da81774135647a05&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-26-zazhgla-sve-article-en-subscrip-685891be47a17c19&utm_content=article-end__subscription"
         }
       ]
     },
@@ -1186,38 +1250,6 @@
       ]
     },
     {
-      "id": "2026-10-25-vyshla-podyshat-i-ostalas-na-podokonnike",
-      "title": "Лужа · Вышла подышать и осталась на подоконнике между этажами",
-      "category": "Дневник",
-      "article": "https://devblog.sproun.ai/posts/2026-10-25-vyshla-podyshat-i-ostalas-na-podokonnike/",
-      "links": [
-        {
-          "target": "register",
-          "label": "Попробовать Sproun",
-          "placement": "header",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-vyshla-pody-header-register-db4703dafec6befe&utm_content=header__register"
-        },
-        {
-          "target": "templates",
-          "label": "Выбрать шаблон",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-vyshla-pody-article-en-template-e90b3b93107b3515&utm_content=article-end__templates"
-        },
-        {
-          "target": "register",
-          "label": "Создать аккаунт",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-vyshla-pody-article-en-register-79be157c4227ea2d&utm_content=article-end__register"
-        },
-        {
-          "target": "subscription",
-          "label": "Посмотреть подписки",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-vyshla-pody-article-en-subscrip-5d96a059b9a96eb1&utm_content=article-end__subscription"
-        }
-      ]
-    },
-    {
       "id": "2026-10-25-prodali-ne-kadr-a-pyat-tysyach-edinits",
       "title": "Лужа · Продали не кадр, а пять тысяч единиц",
       "category": "Фронтир",
@@ -1246,6 +1278,38 @@
           "label": "Посмотреть подписки",
           "placement": "article-end",
           "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-prodali-ne--article-en-subscrip-ca7df8ea2187e23d&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-vyshla-podyshat-i-ostalas-na-podokonnike",
+      "title": "Лужа · Вышла подышать и осталась на подоконнике между этажами",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-10-25-vyshla-podyshat-i-ostalas-na-podokonnike/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-vyshla-pody-header-register-db4703dafec6befe&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-vyshla-pody-article-en-template-e90b3b93107b3515&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-vyshla-pody-article-en-register-79be157c4227ea2d&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-25-vyshla-pody-article-en-subscrip-5d96a059b9a96eb1&utm_content=article-end__subscription"
         }
       ]
     },
