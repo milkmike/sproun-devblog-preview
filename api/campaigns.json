@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-10-29-vybrali-model-za-menya",
+      "title": "Лужа · Выбрали модель за меня",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-29-vybrali-model-za-menya/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-vybrali-mod-header-register-465e5f59fc829ff8&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-vybrali-mod-article-en-template-46f0a55953b490ac&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-vybrali-mod-article-en-register-15344c336d1a7bc9&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-vybrali-mod-article-en-subscrip-f67fd64b360023db&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-krasnyy-tsvet-postavila-mashina",
+      "title": "Лужа · Красный цвет поставила машина",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-10-29-krasnyy-tsvet-postavila-mashina/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-krasnyy-tsv-header-register-79a5f1b0edfcce86&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-krasnyy-tsv-article-en-template-31751e4c436ecab7&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-krasnyy-tsv-article-en-register-38a59d02438021a4&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-krasnyy-tsv-article-en-subscrip-cd7c17cfcbb86e00&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-28-razobrali-instruktsiyu-i-nashli-devyatnadtsat-zaplat",
       "title": "Лужа · Разобрали инструкцию и нашли в ней девятнадцать заплаток",
       "category": "Разработка",
