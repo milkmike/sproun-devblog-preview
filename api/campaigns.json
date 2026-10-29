@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-10-29-luchshuyu-model-vydali-ne-vsem-i-ne-navsegda",
+      "title": "Лужа · Лучшую модель выдали не всем и не насовсем",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-29-luchshuyu-model-vydali-ne-vsem-i-ne-navsegda/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-luchshuyu-m-header-register-5ab38127140a7fbe&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-luchshuyu-m-article-en-template-93cfa05600101eac&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-luchshuyu-m-article-en-register-a6bcbfcb29f8e9a6&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-luchshuyu-m-article-en-subscrip-78407b45185889a7&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-nazvali-shag-kotoryy-ne-proveryali",
+      "title": "Лужа · Назвали шаг, который не проверяли",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-10-29-nazvali-shag-kotoryy-ne-proveryali/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-nazvali-sha-header-register-b3a16db4e34aa911&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-nazvali-sha-article-en-template-164b08563170c748&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-nazvali-sha-article-en-register-c403919d7da34c18&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-29-nazvali-sha-article-en-subscrip-41446cac205823db&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-28-razobrali-instruktsiyu-i-nashli-devyatnadtsat-zaplat",
       "title": "Лужа · Разобрали инструкцию и нашли в ней девятнадцать заплаток",
       "category": "Разработка",
