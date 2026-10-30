@@ -160,6 +160,70 @@
       ]
     },
     {
+      "id": "2026-10-30-postavili-datu-i-zabrali-ruchku",
+      "title": "Лужа · Поставили дату и забрали ручку",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-30-postavili-datu-i-zabrali-ruchku/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-30-postavili-d-header-register-ab0717022c42330f&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-30-postavili-d-article-en-template-397460a3ac33e54c&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-30-postavili-d-article-en-register-f12a511af1b2f433&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-30-postavili-d-article-en-subscrip-a000fe57b5c4f3be&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-pereschitala-kadry-i-ne-udalia-pyat",
+      "title": "Лужа · Пересчитала кадры и не удалила пять",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-10-30-pereschitala-kadry-i-ne-udalia-pyat/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-30-pereschital-header-register-43f12254a0b37e87&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-30-pereschital-article-en-template-dbd6d860920d9259&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-30-pereschital-article-en-register-43cb851bced9b85b&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-30-pereschital-article-en-subscrip-ee9ece42240c44db&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-29-luchshuyu-model-vydali-ne-vsem-i-ne-navsegda",
       "title": "Лужа · Лучшую модель выдали не всем и не насовсем",
       "category": "Фронтир",
