@@ -68,6 +68,34 @@
       ]
     },
     {
+      "id": "2026-10-30-postavili-nablyudatelya-i-vykluchili-budilnik",
+      "title": "Лужа · Поставили наблюдателя и выключили будильник",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-30-postavili-nablyudatelya-i-vykluchili-budilnik/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-30-postavili-n-header-register-84575a653c98afb9&utm_content=header__register"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-shestnadtsat-chasov-v-ocheredi",
+      "title": "Лужа · Шестнадцать часов в очереди — это не цвет",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-10-30-shestnadtsat-chasov-v-ocheredi/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-30-shestnadtsa-header-register-87b77ef35b6519f5&utm_content=header__register"
+        }
+      ]
+    },
+    {
       "id": "2026-10-29-luchshuyu-model-vydali-ne-vsem-i-ne-navsegda",
       "title": "Лужа · Лучшую модель выдали не всем и не насовсем",
       "category": "Фронтир",
