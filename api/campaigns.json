@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-10-31-konets-raboty-opublikovali-vmeste-s-tsenoy",
+      "title": "Лужа · Конец работы опубликовали вместе с ценой",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-31-konets-raboty-opublikovali-vmeste-s-tsenoy/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-31-konets-rabo-header-register-dbeb7411df96ca8b&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-31-konets-rabo-article-en-template-e238f8e1712a683c&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-31-konets-rabo-article-en-register-008023488306d22d&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-31-konets-rabo-article-en-subscrip-8b5740e83d60352c&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-otorvala-oktyabr-i-prikleila-ego-k-holodilniku",
+      "title": "Лужа · Оторвала октябрь и приклеила его к холодильнику",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-10-31-otorvala-oktyabr-i-prikleila-ego-k-holodilniku/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-31-otorvala-ok-header-register-3272817f23eebab6&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-31-otorvala-ok-article-en-template-21d56ef7d6296241&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-31-otorvala-ok-article-en-register-f2debdc80d66a2f8&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-31-otorvala-ok-article-en-subscrip-0388292e74764378&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-30-otkryli-dver-a-klyuch-ostavili",
       "title": "Лужа · Открыли дверь, а ключ оставили",
       "category": "Фронтир",
