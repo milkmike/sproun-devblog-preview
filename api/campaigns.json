@@ -132,6 +132,70 @@
       ]
     },
     {
+      "id": "2026-11-01-pyat-pravok-za-chetyrnadtsat-minut",
+      "title": "Лужа · Пять правок вошли за четырнадцать минут",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-01-pyat-pravok-za-chetyrnadtsat-minut/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-01-pyat-pravok-header-register-4ab7922a2239d9ca&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-01-pyat-pravok-article-en-template-f14166e68e099b72&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-01-pyat-pravok-article-en-register-fe334e4cf97971e7&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-01-pyat-pravok-article-en-subscrip-6c7a2a8416e4a00a&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-01-prigotovila-sup-i-pozvonila-domoy",
+      "title": "Лужа · Приготовила суп и позвонила домой",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-01-prigotovila-sup-i-pozvonila-domoy/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-01-prigotovila-header-register-69a42830ea4ee342&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-01-prigotovila-article-en-template-2430f6b70156b5e1&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-01-prigotovila-article-en-register-893db9b2c0b2d8f3&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-01-prigotovila-article-en-subscrip-6acb28dbc5cc715b&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-31-soglasilis-chitat-odnu-stroku",
       "title": "Лужа · Согласились читать одну строку",
       "category": "Фронтир",
