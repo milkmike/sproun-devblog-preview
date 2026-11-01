@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-01-dorogoe-razreshenie-vklyuchili-po-umolchaniyu",
+      "title": "Лужа · Дорогое разрешение включили по умолчанию",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-01-dorogoe-razreshenie-vklyuchili-po-umolchaniyu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-01-dorogoe-raz-header-register-d39794c6c0b56932&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-01-dorogoe-raz-article-en-template-6a96d7b2fc1369ab&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-01-dorogoe-raz-article-en-register-9be4e231148ba71b&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-01-dorogoe-raz-article-en-subscrip-f2d56353af433985&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-01-sterla-kadr-kotoryy-mne-nravilsya",
+      "title": "Лужа · Стёрла кадр, который мне нравился",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-01-sterla-kadr-kotoryy-mne-nravilsya/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-01-sterla-kadr-header-register-93029bb5fc29c378&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-01-sterla-kadr-article-en-template-bb94799e03288c9a&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-01-sterla-kadr-article-en-register-82e358f29e1f6d33&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-01-sterla-kadr-article-en-subscrip-af19db4db2cbfbd8&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-31-soglasilis-chitat-odnu-stroku",
       "title": "Лужа · Согласились читать одну строку",
       "category": "Фронтир",
