@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-02-spisali-po-toy-chto-otvetila",
+      "title": "Лужа · Списали по той, что ответила",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-02-spisali-po-toy-chto-otvetila/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-spisali-po--header-register-e90a7d0b33b80aea&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-spisali-po--article-en-template-07fc4f66c7f39527&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-spisali-po--article-en-register-922580068beeada8&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-spisali-po--article-en-subscrip-5f6f64bf951168ed&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-peresmotrela-odnu-scenu-chetyre-raza",
+      "title": "Лужа · Пересмотрела одну сцену четыре раза",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-02-peresmotrela-odnu-scenu-chetyre-raza/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-peresmotrel-header-register-fc9f8e948d341fc8&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-peresmotrel-article-en-template-c039c9f04f77ce53&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-peresmotrel-article-en-register-987f0944ba0aa175&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-peresmotrel-article-en-subscrip-11b32d3f3105fc08&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-01-pometili-vse-a-proveryat-vam",
       "title": "Лужа · Пометили всё, а проверять будете сами",
       "category": "Фронтир",
