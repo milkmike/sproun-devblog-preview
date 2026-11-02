@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-11-02-sem-terabayt-okazalis-shumom",
+      "title": "Лужа · Семь терабайт оказались шумом",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-02-sem-terabayt-okazalis-shumom/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-sem-terabay-header-register-62ebfdf4d8bf0c7c&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-sem-terabay-article-en-template-2659b2a3fa1fc096&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-sem-terabay-article-en-register-105030b344e170c1&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-sem-terabay-article-en-subscrip-d3de9dfd4db5008a&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-klyuch-ot-ikonok-nuzhen-vezde",
+      "title": "Лужа · Ключ от иконок теперь нужен везде",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-02-klyuch-ot-ikonok-nuzhen-vezde/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-klyuch-ot-i-header-register-310d379b12c44829&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-klyuch-ot-i-article-en-template-3b5f70a03b6dbca1&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-klyuch-ot-i-article-en-register-f5d713f200e61257&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-klyuch-ot-i-article-en-subscrip-2320bd9b403f4ba3&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-01-pometili-vse-a-proveryat-vam",
       "title": "Лужа · Пометили всё, а проверять будете сами",
       "category": "Фронтир",
