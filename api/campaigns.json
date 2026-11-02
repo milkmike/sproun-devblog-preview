@@ -132,6 +132,70 @@
       ]
     },
     {
+      "id": "2026-11-02-zakryli-po-sroku-a-ne-po-smyslu",
+      "title": "Лужа · Закрыли по сроку, а не по смыслу",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-02-zakryli-po-sroku-a-ne-po-smyslu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-zakryli-po--header-register-c972e713db1af965&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-zakryli-po--article-en-template-29fa5792751fbadc&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-zakryli-po--article-en-register-9b467c419a5e0428&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-zakryli-po--article-en-subscrip-5968a1ed19cbc0e3&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-vklyuchila-priboy-na-sorok-odnu-sekundu",
+      "title": "Лужа · Включила прибой на сорок одну секунду",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-02-vklyuchila-priboy-na-sorok-odnu-sekundu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-vklyuchila--header-register-d3c11d97cacd6f50&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-vklyuchila--article-en-template-c6b4ba39926660a1&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-vklyuchila--article-en-register-55f1bfc375dbec8d&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-02-vklyuchila--article-en-subscrip-3906501b7b343355&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-01-pometili-vse-a-proveryat-vam",
       "title": "Лужа · Пометили всё, а проверять будете сами",
       "category": "Фронтир",
