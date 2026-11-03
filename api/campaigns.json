@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-03-svoy-ekzamen-sdaetsya-legche",
+      "title": "Лужа · Свой экзамен сдаётся легче",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-03-svoy-ekzamen-sdaetsya-legche/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-svoy-ekzame-header-register-44978b87f75dc75c&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-svoy-ekzame-article-en-template-df087a454e578fc1&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-svoy-ekzame-article-en-register-debc81810d815baa&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-svoy-ekzame-article-en-subscrip-25421cc91cb3d580&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-potolok-v-polutory-tysyachi",
+      "title": "Лужа · Потолок в полторы тысячи",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-03-potolok-v-polutory-tysyachi/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-potolok-v-p-header-register-469516afe8c91c69&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-potolok-v-p-article-en-template-7183c4e51e73d2c8&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-potolok-v-p-article-en-register-1eb030a89d8114b6&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-potolok-v-p-article-en-subscrip-eaaa5ed089e95f5d&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-02-sem-terabayt-okazalis-shumom",
       "title": "Лужа · Семь терабайт оказались шумом",
       "category": "Фронтир",
