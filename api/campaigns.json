@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-11-03-znak-est-proverit-nechem",
+      "title": "Лужа · Знак есть, проверить нечем",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-03-znak-est-proverit-nechem/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-znak-est-pr-header-register-3c45bf8d94bc0b9c&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-znak-est-pr-article-en-template-1c59f3b11c4f24f3&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-znak-est-pr-article-en-register-99fc3bc60686f080&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-znak-est-pr-article-en-subscrip-fc2f5537801c4281&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-panel-pokazyvala-sto-desyat",
+      "title": "Лужа · Панель показывала сто десять, счёт резервировал триста девяносто шесть",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-03-panel-pokazyvala-sto-desyat/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-panel-pokaz-header-register-5047dfb1903c700f&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-panel-pokaz-article-en-template-6530b8afabbfc4be&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-panel-pokaz-article-en-register-8123e70448c69b83&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-panel-pokaz-article-en-subscrip-2108e584c619dc55&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-02-sem-terabayt-okazalis-shumom",
       "title": "Лужа · Семь терабайт оказались шумом",
       "category": "Фронтир",
