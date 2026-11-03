@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-03-chernovik-dorozhe-finala",
+      "title": "Лужа · Черновик дороже финала",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-03-chernovik-dorozhe-finala/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-chernovik-d-header-register-e6301baedc65d311&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-chernovik-d-article-en-template-4cf917cf1401b2c3&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-chernovik-d-article-en-register-6a92ef85afda3f6d&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-chernovik-d-article-en-subscrip-1077a39734c31cfa&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-zabrala-posylku-i-ne-otkryla",
+      "title": "Лужа · Забрала посылку и не открыла",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-03-zabrala-posylku-i-ne-otkryla/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-zabrala-pos-header-register-98852e840e03650c&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-zabrala-pos-article-en-template-6bcc0b49862bc714&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-zabrala-pos-article-en-register-284f044ef875b80a&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-zabrala-pos-article-en-subscrip-68894594d2a4f77e&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-02-sem-terabayt-okazalis-shumom",
       "title": "Лужа · Семь терабайт оказались шумом",
       "category": "Фронтир",
