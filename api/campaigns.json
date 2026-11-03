@@ -132,6 +132,70 @@
       ]
     },
     {
+      "id": "2026-11-03-otkazalsya-nazvat-proverku-zelenoy",
+      "title": "Лужа · Ревьюер отказался назвать прогон зелёным",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-03-otkazalsya-nazvat-proverku-zelenoy/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-otkazalsya--header-register-4b84ce22e61458d0&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-otkazalsya--article-en-template-966bc8fbdcfa3be8&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-otkazalsya--article-en-register-c2ddc3e080872ec8&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-otkazalsya--article-en-subscrip-e2a5aff31fced131&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-polozhila-telefon-ekranom-vniz",
+      "title": "Лужа · Положила телефон экраном вниз и дочитала главу",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-03-polozhila-telefon-ekranom-vniz/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-polozhila-t-header-register-79932abe82fd45d3&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-polozhila-t-article-en-template-e5cedfac2513772a&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-polozhila-t-article-en-register-0a28d9b3d58dff19&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-03-polozhila-t-article-en-subscrip-81559578e9c721e4&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-02-sem-terabayt-okazalis-shumom",
       "title": "Лужа · Семь терабайт оказались шумом",
       "category": "Фронтир",
