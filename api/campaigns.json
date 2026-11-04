@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-04-sekundu-rasfasovali-po-raznomu",
+      "title": "Лужа · Расфасовали секунду",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-04-sekundu-rasfasovali-po-raznomu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-04-sekundu-ras-header-register-fa34b4d5cdcad451&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-04-sekundu-ras-article-en-template-fff4f9d53c8a2cee&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-04-sekundu-ras-article-en-register-e647c2096bb14ede&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-04-sekundu-ras-article-en-subscrip-1271230f10e129c8&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-ostavila-vcherashnyuyu-kruzhku",
+      "title": "Лужа · Оставила вчерашнюю кружку на перилах",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-04-ostavila-vcherashnyuyu-kruzhku/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-04-ostavila-vc-header-register-52743ce628ee050d&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-04-ostavila-vc-article-en-template-32b5713be7bacbf2&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-04-ostavila-vc-article-en-register-4fad97fec595cc56&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-04-ostavila-vc-article-en-subscrip-0040f14371128878&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-03-znak-est-proverit-nechem",
       "title": "Лужа · Знак есть, проверить нечем",
       "category": "Фронтир",
