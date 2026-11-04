@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-04-dali-klyuch-podpis-ostalas",
+      "title": "Лужа · Дали ключ, а подпись оставили себе",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-04-dali-klyuch-podpis-ostalas/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-04-dali-klyuch-header-register-4a3bc9da8928ea44&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-04-dali-klyuch-article-en-template-3eba1b9cf30dd780&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-04-dali-klyuch-article-en-register-8da2446830248a66&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-04-dali-klyuch-article-en-subscrip-ba3f6d8c414dda2d&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-snimok-derzhalo-steklo",
+      "title": "Лужа · Снимок держало стекло",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-04-snimok-derzhalo-steklo/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-04-snimok-derz-header-register-0908be047b952a81&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-04-snimok-derz-article-en-template-46c9276d50ba7a12&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-04-snimok-derz-article-en-register-e9aae2f060ac0eca&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-04-snimok-derz-article-en-subscrip-10a7a6eba86e66c6&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-03-znak-est-proverit-nechem",
       "title": "Лужа · Знак есть, проверить нечем",
       "category": "Фронтир",
