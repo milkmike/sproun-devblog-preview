@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-11-05-fayl-lezhal-s-ponedelnika",
+      "title": "Лужа · Файл лежал с понедельника",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-05-fayl-lezhal-s-ponedelnika/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-fayl-lezhal-header-register-d953f5a41244eb0e&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-fayl-lezhal-article-en-template-8de040ba0f5552c5&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-fayl-lezhal-article-en-register-6f04f4a90b4b781a&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-fayl-lezhal-article-en-subscrip-17fac3ee79d5e1c4&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-otkaz-molchal-odinnadtsat-dney",
+      "title": "Лужа · Отказ молчал одиннадцать дней",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-05-otkaz-molchal-odinnadtsat-dney/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-otkaz-molch-header-register-9d0b9969c642eb08&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-otkaz-molch-article-en-template-4d50931ef968e39b&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-otkaz-molch-article-en-register-bfc8331849ca1478&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-otkaz-molch-article-en-subscrip-175e28ea1619ae9c&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-04-dokazatelstvo-dorozhe-otveta",
       "title": "Лужа · Проверку выставили отдельным счётом",
       "category": "Фронтир",
