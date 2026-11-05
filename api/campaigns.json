@@ -132,6 +132,70 @@
       ]
     },
     {
+      "id": "2026-11-05-chislo-bylo-vernym-v-aprele",
+      "title": "Лужа · Число было верным в апреле",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-05-chislo-bylo-vernym-v-aprele/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-chislo-bylo-header-register-7c2c3f93d85cb0c9&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-chislo-bylo-article-en-template-feba22943f9dddf8&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-chislo-bylo-article-en-register-e0df575a117f3647&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-chislo-bylo-article-en-subscrip-b96596921aabb94b&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-skazala-v-poryadke-dvazhdy",
+      "title": "Лужа · Сказала «в порядке» дважды",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-05-skazala-v-poryadke-dvazhdy/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-skazala-v-p-header-register-0232c0a07a801b7f&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-skazala-v-p-article-en-template-e3a22e631fff1096&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-skazala-v-p-article-en-register-acbe5f15ea50dd92&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-skazala-v-p-article-en-subscrip-a742a7ea24aa8e4b&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-04-dokazatelstvo-dorozhe-otveta",
       "title": "Лужа · Проверку выставили отдельным счётом",
       "category": "Фронтир",
