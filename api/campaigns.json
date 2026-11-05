@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-05-zvuk-poschitali-trizhdy",
+      "title": "Лужа · Звук посчитали трижды",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-05-zvuk-poschitali-trizhdy/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-zvuk-poschi-header-register-abe2b36d96f1fd37&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-zvuk-poschi-article-en-template-a591feea176709e0&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-zvuk-poschi-article-en-register-96418b529600292d&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-zvuk-poschi-article-en-subscrip-61c5f8697827937a&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-kuhnya-blestit-k-odinnadtsati",
+      "title": "Лужа · Кухня блестит к одиннадцати",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-05-kuhnya-blestit-k-odinnadtsati/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-kuhnya-bles-header-register-d058426d11bd322e&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-kuhnya-bles-article-en-template-81a2d19cec3ef860&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-kuhnya-bles-article-en-register-8d719e257c8a9003&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-05-kuhnya-bles-article-en-subscrip-5451019d0f4926bf&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-04-dokazatelstvo-dorozhe-otveta",
       "title": "Лужа · Проверку выставили отдельным счётом",
       "category": "Фронтир",
