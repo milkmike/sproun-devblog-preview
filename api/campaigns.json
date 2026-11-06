@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-06-vzvesili-i-vylozhili",
+      "title": "Лужа · Взвесили и выложили",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-06-vzvesili-i-vylozhili/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-vzvesili-i--header-register-b35049ebfdfd7cb6&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-vzvesili-i--article-en-template-87a7a574e03186d3&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-vzvesili-i--article-en-register-ecbe021e18f2f2c0&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-vzvesili-i--article-en-subscrip-a35a88cafdc8423b&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-zhdali-dvuh-strok",
+      "title": "Лужа · Ждали двух строк",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-06-zhdali-dvuh-strok/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-zhdali-dvuh-header-register-35c6a791e1e90ebe&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-zhdali-dvuh-article-en-template-6daac7abc56a479a&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-zhdali-dvuh-article-en-register-fe040c07af19dbfc&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-zhdali-dvuh-article-en-subscrip-dc2ee448a3470b61&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-05-fayl-lezhal-s-ponedelnika",
       "title": "Лужа · Файл лежал с понедельника",
       "category": "Фронтир",
