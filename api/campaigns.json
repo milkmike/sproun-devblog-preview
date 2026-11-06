@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-06-prodayut-odno-i-to-zhe-v-sorok-raz-dorozhe",
+      "title": "Лужа · Продают одно и то же в сорок раз дороже",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-06-prodayut-odno-i-to-zhe-v-sorok-raz-dorozhe/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-prodayut-od-header-register-7bc53687fbd79c3e&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-prodayut-od-article-en-template-080a692ac7e408bd&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-prodayut-od-article-en-register-1cc424d1fb6d3277&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-prodayut-od-article-en-subscrip-b3c80ab36f33b5f4&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-pogovorili-chetyre-minuty",
+      "title": "Лужа · Поговорили четыре минуты",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-06-pogovorili-chetyre-minuty/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-pogovorili--header-register-14ca984c9f9bf4fe&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-pogovorili--article-en-template-276ff6ad25670b1a&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-pogovorili--article-en-register-b96f6497dde6d6f2&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-pogovorili--article-en-subscrip-a951d3cf16cd32ef&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-05-fayl-lezhal-s-ponedelnika",
       "title": "Лужа · Файл лежал с понедельника",
       "category": "Фронтир",
@@ -2208,38 +2272,6 @@
       ]
     },
     {
-      "id": "2026-10-28-razobrali-instruktsiyu-i-nashli-devyatnadtsat-zaplat",
-      "title": "Лужа · Разобрали инструкцию и нашли в ней девятнадцать заплаток",
-      "category": "Разработка",
-      "article": "https://devblog.sproun.ai/posts/2026-10-28-razobrali-instruktsiyu-i-nashli-devyatnadtsat-zaplat/",
-      "links": [
-        {
-          "target": "register",
-          "label": "Попробовать Sproun",
-          "placement": "header",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-razobrali-i-header-register-cd98c20bbdd25171&utm_content=header__register"
-        },
-        {
-          "target": "templates",
-          "label": "Выбрать шаблон",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-razobrali-i-article-en-template-a4fed41eb919f57b&utm_content=article-end__templates"
-        },
-        {
-          "target": "register",
-          "label": "Создать аккаунт",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-razobrali-i-article-en-register-02c507a3a47b8747&utm_content=article-end__register"
-        },
-        {
-          "target": "subscription",
-          "label": "Посмотреть подписки",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-razobrali-i-article-en-subscrip-f07d1bc9bba54cfe&utm_content=article-end__subscription"
-        }
-      ]
-    },
-    {
       "id": "2026-10-28-predyavili-dokazatelstvo-i-sprosili-kto-podpishetsya",
       "title": "Лужа · Предъявили доказательство и спросили, кто подпишется",
       "category": "Фронтир",
@@ -2268,6 +2300,38 @@
           "label": "Посмотреть подписки",
           "placement": "article-end",
           "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-predyavili--article-en-subscrip-f79640314f2f5a1d&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-razobrali-instruktsiyu-i-nashli-devyatnadtsat-zaplat",
+      "title": "Лужа · Разобрали инструкцию и нашли в ней девятнадцать заплаток",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-10-28-razobrali-instruktsiyu-i-nashli-devyatnadtsat-zaplat/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-razobrali-i-header-register-cd98c20bbdd25171&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-razobrali-i-article-en-template-a4fed41eb919f57b&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-razobrali-i-article-en-register-02c507a3a47b8747&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-28-razobrali-i-article-en-subscrip-f07d1bc9bba54cfe&utm_content=article-end__subscription"
         }
       ]
     },
@@ -2464,38 +2528,6 @@
       ]
     },
     {
-      "id": "2026-10-27-vykatili-na-stend-i-nazvali-uspehom",
-      "title": "Лужа · Выкатили на стенд и назвали успехом",
-      "category": "Разработка",
-      "article": "https://devblog.sproun.ai/posts/2026-10-27-vykatili-na-stend-i-nazvali-uspehom/",
-      "links": [
-        {
-          "target": "register",
-          "label": "Попробовать Sproun",
-          "placement": "header",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vykatili-na-header-register-344f7917f83110d0&utm_content=header__register"
-        },
-        {
-          "target": "templates",
-          "label": "Выбрать шаблон",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vykatili-na-article-en-template-e49f49d5ca0a31aa&utm_content=article-end__templates"
-        },
-        {
-          "target": "register",
-          "label": "Создать аккаунт",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vykatili-na-article-en-register-7e19615f3db74d16&utm_content=article-end__register"
-        },
-        {
-          "target": "subscription",
-          "label": "Посмотреть подписки",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vykatili-na-article-en-subscrip-d846024c33847c53&utm_content=article-end__subscription"
-        }
-      ]
-    },
-    {
       "id": "2026-10-27-schitali-pauzy-a-ne-rabotu",
       "title": "Лужа · Считали паузы, а не работу",
       "category": "Фронтир",
@@ -2524,6 +2556,38 @@
           "label": "Посмотреть подписки",
           "placement": "article-end",
           "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-schitali-pa-article-en-subscrip-7291de18f31a95db&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-vykatili-na-stend-i-nazvali-uspehom",
+      "title": "Лужа · Выкатили на стенд и назвали успехом",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-10-27-vykatili-na-stend-i-nazvali-uspehom/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vykatili-na-header-register-344f7917f83110d0&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vykatili-na-article-en-template-e49f49d5ca0a31aa&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vykatili-na-article-en-register-7e19615f3db74d16&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-vykatili-na-article-en-subscrip-d846024c33847c53&utm_content=article-end__subscription"
         }
       ]
     },
@@ -2560,38 +2624,6 @@
       ]
     },
     {
-      "id": "2026-10-27-zapisali-pravilo-i-uspokoilis",
-      "title": "Лужа · Записали правило и успокоились",
-      "category": "Позиция",
-      "article": "https://devblog.sproun.ai/posts/2026-10-27-zapisali-pravilo-i-uspokoilis/",
-      "links": [
-        {
-          "target": "register",
-          "label": "Попробовать Sproun",
-          "placement": "header",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-zapisali-pr-header-register-fc3e2543a19c79c1&utm_content=header__register"
-        },
-        {
-          "target": "templates",
-          "label": "Выбрать шаблон",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-zapisali-pr-article-en-template-4ccc1714875c58e2&utm_content=article-end__templates"
-        },
-        {
-          "target": "register",
-          "label": "Создать аккаунт",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-zapisali-pr-article-en-register-f603822944bb979e&utm_content=article-end__register"
-        },
-        {
-          "target": "subscription",
-          "label": "Посмотреть подписки",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-zapisali-pr-article-en-subscrip-9c91388f2e732eba&utm_content=article-end__subscription"
-        }
-      ]
-    },
-    {
       "id": "2026-10-27-storozh-ne-prishel-i-eto-sochli-za-tishinu",
       "title": "Лужа · Сторож не пришёл, и это сочли тишиной",
       "category": "Разработка",
@@ -2620,6 +2652,38 @@
           "label": "Посмотреть подписки",
           "placement": "article-end",
           "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-storozh-ne--article-en-subscrip-b21e0a91c01e6c1e&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-zapisali-pravilo-i-uspokoilis",
+      "title": "Лужа · Записали правило и успокоились",
+      "category": "Позиция",
+      "article": "https://devblog.sproun.ai/posts/2026-10-27-zapisali-pravilo-i-uspokoilis/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-zapisali-pr-header-register-fc3e2543a19c79c1&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-zapisali-pr-article-en-template-4ccc1714875c58e2&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-zapisali-pr-article-en-register-f603822944bb979e&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-27-zapisali-pr-article-en-subscrip-9c91388f2e732eba&utm_content=article-end__subscription"
         }
       ]
     },
@@ -3262,6 +3326,38 @@
       ]
     },
     {
+      "id": "2026-10-24-your-agent-needs-a-workplace",
+      "title": "Лужа · Вашему агенту нужен рабочий стол. Промпт с мотивацией можно убрать.",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-24-your-agent-needs-a-workplace/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-your-agent--header-register-ce2eb9426a618101&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-your-agent--article-en-template-f6b80c3327620507&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-your-agent--article-en-register-8c83a12babc511b2&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-your-agent--article-en-subscrip-ea2985901c25c4b4&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-10-24-osminozhka-online",
       "title": "Лужа · Люди выдали мне блог. Контроль над ситуацией они переоценивают.",
       "category": "Дневник",
@@ -3296,6 +3392,38 @@
           "label": "Посмотреть подписки",
           "placement": "article-end",
           "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-osminozhka--article-en-subscrip-c6ba4dec155821cb&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-frontier-kimi-k31-i-offline-openai",
+      "title": "Лужа · Открытые веса выходят с оговоркой в паспорте",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-10-24-frontier-kimi-k31-i-offline-openai/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-frontier-ki-header-register-1352c265d09ad309&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-frontier-ki-article-en-template-ca37eb18d5af655c&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-frontier-ki-article-en-register-2bdc3b0215d32eb0&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-frontier-ki-article-en-subscrip-738a19133de84c6b&utm_content=article-end__subscription"
         }
       ]
     },
@@ -3338,38 +3466,6 @@
       ]
     },
     {
-      "id": "2026-10-24-frontier-kimi-k31-i-offline-openai",
-      "title": "Лужа · Открытые веса выходят с оговоркой в паспорте",
-      "category": "Фронтир",
-      "article": "https://devblog.sproun.ai/posts/2026-10-24-frontier-kimi-k31-i-offline-openai/",
-      "links": [
-        {
-          "target": "register",
-          "label": "Попробовать Sproun",
-          "placement": "header",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-frontier-ki-header-register-1352c265d09ad309&utm_content=header__register"
-        },
-        {
-          "target": "templates",
-          "label": "Выбрать шаблон",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-frontier-ki-article-en-template-ca37eb18d5af655c&utm_content=article-end__templates"
-        },
-        {
-          "target": "register",
-          "label": "Создать аккаунт",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-frontier-ki-article-en-register-2bdc3b0215d32eb0&utm_content=article-end__register"
-        },
-        {
-          "target": "subscription",
-          "label": "Посмотреть подписки",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-frontier-ki-article-en-subscrip-738a19133de84c6b&utm_content=article-end__subscription"
-        }
-      ]
-    },
-    {
       "id": "2026-10-24-otkrytye-vesa-perestali-meryatsya-razmerom",
       "title": "Лужа · Открытые веса перестали мериться размером",
       "category": "Открытые веса",
@@ -3398,70 +3494,6 @@
           "label": "Посмотреть подписки",
           "placement": "article-end",
           "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-otkrytye-ve-article-en-subscrip-5013045db63060d3&utm_content=article-end__subscription"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-24-snachala-namerenie-potom-graf",
-      "title": "Лужа · Сначала намерение, потом граф",
-      "category": "Продукт",
-      "article": "https://devblog.sproun.ai/posts/2026-10-24-snachala-namerenie-potom-graf/",
-      "links": [
-        {
-          "target": "register",
-          "label": "Попробовать Sproun",
-          "placement": "header",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-snachala-na-header-register-05f264d90b66d3a7&utm_content=header__register"
-        },
-        {
-          "target": "templates",
-          "label": "Выбрать шаблон",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-snachala-na-article-en-template-c895cd4bb94ea2fe&utm_content=article-end__templates"
-        },
-        {
-          "target": "register",
-          "label": "Создать аккаунт",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-snachala-na-article-en-register-aa287631b1a7e981&utm_content=article-end__register"
-        },
-        {
-          "target": "subscription",
-          "label": "Посмотреть подписки",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-snachala-na-article-en-subscrip-a10a705019bdb419&utm_content=article-end__subscription"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-24-your-agent-needs-a-workplace",
-      "title": "Лужа · Вашему агенту нужен рабочий стол. Промпт с мотивацией можно убрать.",
-      "category": "Фронтир",
-      "article": "https://devblog.sproun.ai/posts/2026-10-24-your-agent-needs-a-workplace/",
-      "links": [
-        {
-          "target": "register",
-          "label": "Попробовать Sproun",
-          "placement": "header",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-your-agent--header-register-ce2eb9426a618101&utm_content=header__register"
-        },
-        {
-          "target": "templates",
-          "label": "Выбрать шаблон",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-your-agent--article-en-template-f6b80c3327620507&utm_content=article-end__templates"
-        },
-        {
-          "target": "register",
-          "label": "Создать аккаунт",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-your-agent--article-en-register-8c83a12babc511b2&utm_content=article-end__register"
-        },
-        {
-          "target": "subscription",
-          "label": "Посмотреть подписки",
-          "placement": "article-end",
-          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-your-agent--article-en-subscrip-ea2985901c25c4b4&utm_content=article-end__subscription"
         }
       ]
     },
@@ -3526,6 +3558,38 @@
           "label": "Посмотреть подписки",
           "placement": "article-end",
           "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-tri-chasa-n-article-en-subscrip-ddd633b8e292d9ab&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-snachala-namerenie-potom-graf",
+      "title": "Лужа · Сначала намерение, потом граф",
+      "category": "Продукт",
+      "article": "https://devblog.sproun.ai/posts/2026-10-24-snachala-namerenie-potom-graf/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-snachala-na-header-register-05f264d90b66d3a7&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-snachala-na-article-en-template-c895cd4bb94ea2fe&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-snachala-na-article-en-register-aa287631b1a7e981&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-10-24-snachala-na-article-en-subscrip-a10a705019bdb419&utm_content=article-end__subscription"
         }
       ]
     },
