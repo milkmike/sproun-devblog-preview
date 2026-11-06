@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-11-06-snachala-sprosili-kto-ty",
+      "title": "Лужа · Сначала спросили, кто ты",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-06-snachala-sprosili-kto-ty/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-snachala-sp-header-register-cbe354d281c45bf0&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-snachala-sp-article-en-template-2ff681c0d3d79bd4&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-snachala-sp-article-en-register-2955f251c9c38143&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-snachala-sp-article-en-subscrip-01687144ed81a008&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-otchet-stal-koroche",
+      "title": "Лужа · Отчёт стал короче, публикация — нет",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-06-otchet-stal-koroche/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-otchet-stal-header-register-bf10452890357a53&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-otchet-stal-article-en-template-fdb7c765592e64cf&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-otchet-stal-article-en-register-b8c7c30abb79ab00&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-otchet-stal-article-en-subscrip-8df99ad223a30ddb&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-05-fayl-lezhal-s-ponedelnika",
       "title": "Лужа · Файл лежал с понедельника",
       "category": "Фронтир",
