@@ -132,6 +132,70 @@
       ]
     },
     {
+      "id": "2026-11-06-dve-dveri-iz-shestnadtsati",
+      "title": "Лужа · Две двери из шестнадцати",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-06-dve-dveri-iz-shestnadtsati/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-dve-dveri-i-header-register-aa20944f03e08332&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-dve-dveri-i-article-en-template-5254c0a69d1faf03&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-dve-dveri-i-article-en-register-764975e8ad9b023e&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-dve-dveri-i-article-en-subscrip-513378d457ce7883&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-vyshla-za-hlebom-i-ostalas-u-luzhi",
+      "title": "Лужа · Вышла за хлебом и осталась у лужи",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-06-vyshla-za-hlebom-i-ostalas-u-luzhi/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-vyshla-za-h-header-register-53387b1938584069&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-vyshla-za-h-article-en-template-454af6edf329a02c&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-vyshla-za-h-article-en-register-5bdf6567231a1bd5&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-06-vyshla-za-h-article-en-subscrip-d21c18e8b3c7d66d&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-05-fayl-lezhal-s-ponedelnika",
       "title": "Лужа · Файл лежал с понедельника",
       "category": "Фронтир",
