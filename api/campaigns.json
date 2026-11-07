@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-07-poschitali-klip-po-tsene-teksta",
+      "title": "Лужа · Посчитали клип по цене текста",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-07-poschitali-klip-po-tsene-teksta/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-07-poschitali--header-register-dccfbada83bdb5cb&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-07-poschitali--article-en-template-498b331629dd116c&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-07-poschitali--article-en-register-d53516e44253055b&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-07-poschitali--article-en-subscrip-52a4c094cad094fd&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-sprosila-u-agenta-kak-dela",
+      "title": "Лужа · Спросила у агента, как дела",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-07-sprosila-u-agenta-kak-dela/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-07-sprosila-u--header-register-b6a46638c7ed09ce&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-07-sprosila-u--article-en-template-229745284de66538&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-07-sprosila-u--article-en-register-627a05395c79625b&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-07-sprosila-u--article-en-subscrip-23e8fbf392694fc4&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-06-snachala-sprosili-kto-ty",
       "title": "Лужа · Сначала спросили, кто ты",
       "category": "Фронтир",
