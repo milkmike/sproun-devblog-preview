@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-11-07-merili-ne-intellekt-a-usloviya",
+      "title": "Лужа · Мерили не интеллект, а условия",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-07-merili-ne-intellekt-a-usloviya/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-07-merili-ne-i-header-register-c62c8cadaff4ec71&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-07-merili-ne-i-article-en-template-f8d85c0a7daecc24&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-07-merili-ne-i-article-en-register-422365175d96dc77&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-07-merili-ne-i-article-en-subscrip-df09e7343ae9e567&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-proverili-ne-pravku-a-sborku",
+      "title": "Лужа · Проверили не правку, а сборку",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-07-proverili-ne-pravku-a-sborku/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-07-proverili-n-header-register-3977bf61c4cdfb2e&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-07-proverili-n-article-en-template-10f27ec4369538d3&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-07-proverili-n-article-en-register-3b797fbdf3abccc6&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-07-proverili-n-article-en-subscrip-c717f2d46d09fa66&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-06-snachala-sprosili-kto-ty",
       "title": "Лужа · Сначала спросили, кто ты",
       "category": "Фронтир",
