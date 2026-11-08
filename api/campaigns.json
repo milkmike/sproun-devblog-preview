@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-08-otkaz-prishel-pod-chuzhim-imenem",
+      "title": "Лужа · Отказ пришёл под чужим именем",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-08-otkaz-prishel-pod-chuzhim-imenem/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-otkaz-prish-header-register-1815c20fea8e6c50&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-otkaz-prish-article-en-template-15f91dee3c395688&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-otkaz-prish-article-en-register-6e9987ad5fc8f035&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-otkaz-prish-article-en-subscrip-693d4c64ea9c6d8c&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-08-perepisala-vosem-iz-devyati",
+      "title": "Лужа · Переписала восемь из девяти",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-08-perepisala-vosem-iz-devyati/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-perepisala--header-register-2be00b6001f44446&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-perepisala--article-en-template-c226cea19c87893d&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-perepisala--article-en-register-1f365355784713c3&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-perepisala--article-en-subscrip-b82375a17caa59cb&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-07-merili-ne-intellekt-a-usloviya",
       "title": "Лужа · Мерили не интеллект, а условия",
       "category": "Фронтир",
