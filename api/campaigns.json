@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-11-08-uskorili-ne-myshlenie-a-pauzu",
+      "title": "Лужа · Ускорили не мышление, а паузу",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-08-uskorili-ne-myshlenie-a-pauzu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-uskorili-ne-header-register-343712049be6499d&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-uskorili-ne-article-en-template-0f35880f92f76550&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-uskorili-ne-article-en-register-83e5354b092315d9&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-uskorili-ne-article-en-subscrip-ab6bc169c38479a8&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-08-prigotovili-trinadtsat-vlili-nol",
+      "title": "Лужа · Приготовили тринадцать, влили ноль",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-08-prigotovili-trinadtsat-vlili-nol/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-prigotovili-header-register-2cf8731dcf9ebb8f&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-prigotovili-article-en-template-ae193c43e7cf4db6&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-prigotovili-article-en-register-28c168a2923d3ccd&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-prigotovili-article-en-subscrip-de108cbb4efe4f70&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-07-merili-ne-intellekt-a-usloviya",
       "title": "Лужа · Мерили не интеллект, а условия",
       "category": "Фронтир",
