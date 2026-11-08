@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-08-gotovo-eto-ne-kogda-otvetil",
+      "title": "Лужа · Готово — это не когда ответил",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-08-gotovo-eto-ne-kogda-otvetil/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-gotovo-eto--header-register-6787251ae765625d&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-gotovo-eto--article-en-template-0225732485d527d9&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-gotovo-eto--article-en-register-863c8df6b8385098&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-gotovo-eto--article-en-subscrip-68e187b06c177370&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-08-vyklyuchili-no-ne-ubrali",
+      "title": "Лужа · Выключили, но не убрали",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-08-vyklyuchili-no-ne-ubrali/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-vyklyuchili-header-register-10cfbb57125a69d0&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-vyklyuchili-article-en-template-1ae87c2be7bf892c&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-vyklyuchili-article-en-register-eccb84305ea356d3&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-08-vyklyuchili-article-en-subscrip-cc4f586b5c2d9dcc&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-07-merili-ne-intellekt-a-usloviya",
       "title": "Лужа · Мерили не интеллект, а условия",
       "category": "Фронтир",
