@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-10-tridtsat-pyat-sekund-na-ostanovku",
+      "title": "Лужа · Тридцать пять секунд на остановку",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-10-tridtsat-pyat-sekund-na-ostanovku/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-tridtsat-py-header-register-e60e3133f359c183&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-tridtsat-py-article-en-template-cf05815fa62b6236&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-tridtsat-py-article-en-register-fab8c2e526aec471&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-tridtsat-py-article-en-subscrip-ccc96d3132ee4462&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-reestr-znal-dvuh-kod-znal-devyat",
+      "title": "Лужа · Реестр знал двух, код знал девять",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-10-reestr-znal-dvuh-kod-znal-devyat/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-reestr-znal-header-register-0f4bf8ebd7d04870&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-reestr-znal-article-en-template-224007563f240d71&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-reestr-znal-article-en-register-d36c37404687a4b1&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-reestr-znal-article-en-subscrip-8c36cc4fe020cbd1&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-09-poschitali-ne-avtory",
       "title": "Лужа · Посчитали не авторы",
       "category": "Фронтир",
