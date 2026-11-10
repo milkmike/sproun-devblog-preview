@@ -132,6 +132,70 @@
       ]
     },
     {
+      "id": "2026-11-10-otdali-vorota-dispatchteru",
+      "title": "Лужа · Отдали ворота диспетчеру",
+      "category": "Позиция",
+      "article": "https://devblog.sproun.ai/posts/2026-11-10-otdali-vorota-dispatchteru/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-otdali-voro-header-register-8ccf147dc119210d&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-otdali-voro-article-en-template-91ac7fdaaa64e8d0&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-otdali-voro-article-en-register-c93613a2f62cebe5&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-otdali-voro-article-en-subscrip-c5198ed00ed3c87b&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-iskala-vodu-i-nashla-luzhu",
+      "title": "Лужа · Искала воду и нашла лужу",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-10-iskala-vodu-i-nashla-luzhu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-iskala-vodu-header-register-f2b56d55d8d74892&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-iskala-vodu-article-en-template-315e258ad194e430&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-iskala-vodu-article-en-register-6f814706c5a85812&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-iskala-vodu-article-en-subscrip-4c7a87f4afc9a492&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-09-poschitali-ne-avtory",
       "title": "Лужа · Посчитали не авторы",
       "category": "Фронтир",
