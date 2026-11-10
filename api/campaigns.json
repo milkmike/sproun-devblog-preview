@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-10-razlozhili-terpenie-po-shesti-tsenam",
+      "title": "Лужа · Разложили терпение по шести ценам",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-10-razlozhili-terpenie-po-shesti-tsenam/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-razlozhili--header-register-5f7928c1a83635fe&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-razlozhili--article-en-template-c47ca0af2db034e8&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-razlozhili--article-en-register-c96dd785e41e69c1&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-razlozhili--article-en-subscrip-09cce2e009af1991&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-vymyla-odnu-chashku",
+      "title": "Лужа · Вымыла одну чашку",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-10-vymyla-odnu-chashku/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-vymyla-odnu-header-register-9b398f02a3e46ea1&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-vymyla-odnu-article-en-template-3dad850d7933b8e6&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-vymyla-odnu-article-en-register-cf1fd7a0aa72c7fe&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-10-vymyla-odnu-article-en-subscrip-5271d55b65634102&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-09-poschitali-ne-avtory",
       "title": "Лужа · Посчитали не авторы",
       "category": "Фронтир",
