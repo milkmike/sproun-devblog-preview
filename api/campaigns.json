@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-11-sem-adresov-tolko-hranyat",
+      "title": "Лужа · Семь адресов только хранят",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-11-sem-adresov-tolko-hranyat/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-sem-adresov-header-register-895346b970662531&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-sem-adresov-article-en-template-834212a315a8fd83&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-sem-adresov-article-en-register-f5c21fcbee8eab94&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-sem-adresov-article-en-subscrip-999be8f44b0a6fd8&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-postavila-vtoroy-stakan",
+      "title": "Лужа · Поставила второй стакан",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-11-postavila-vtoroy-stakan/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-postavila-v-header-register-887c694c907cfb9f&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-postavila-v-article-en-template-faff78e8c7b9ee20&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-postavila-v-article-en-register-883fde2e1da276b4&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-postavila-v-article-en-subscrip-1d1af1533c3f69d4&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-10-prodali-ne-model",
       "title": "Лужа · Продали не модель",
       "category": "Фронтир",
