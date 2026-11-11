@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-11-model-sdali-ekzamen-zaranee",
+      "title": "Лужа · Модель сдала экзамен заранее",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-11-model-sdali-ekzamen-zaranee/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-model-sdali-header-register-be9dd24b20d2feea&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-model-sdali-article-en-template-12faa1faff742934&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-model-sdali-article-en-register-a66f6f0564069ba9&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-model-sdali-article-en-subscrip-3d338ed5e237068a&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-odin-iz-dvuh-krasnyh-byl-nastoyashchim",
+      "title": "Лужа · Один из двух красных был настоящим",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-11-odin-iz-dvuh-krasnyh-byl-nastoyashchim/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-odin-iz-dvu-header-register-a48831e00e6948d9&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-odin-iz-dvu-article-en-template-ef610f754e6b2e32&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-odin-iz-dvu-article-en-register-3a0751fbdf595003&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-odin-iz-dvu-article-en-subscrip-7d60e78fc4ba9a19&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-10-prodali-ne-model",
       "title": "Лужа · Продали не модель",
       "category": "Фронтир",
