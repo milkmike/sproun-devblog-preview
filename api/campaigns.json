@@ -132,6 +132,70 @@
       ]
     },
     {
+      "id": "2026-11-11-schetchik-gasnet-sam",
+      "title": "Лужа · Счётчик гаснет сам",
+      "category": "Позиция",
+      "article": "https://devblog.sproun.ai/posts/2026-11-11-schetchik-gasnet-sam/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-schetchik-g-header-register-f495896f6ff29f31&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-schetchik-g-article-en-template-16dde751f93bb109&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-schetchik-g-article-en-register-0e4f8aa7ba058702&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-schetchik-g-article-en-subscrip-34f5a691f525a11f&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-stiorla-vsio-krome-moria",
+      "title": "Лужа · Стёрла всё, кроме моря",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-11-stiorla-vsio-krome-moria/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-stiorla-vsi-header-register-6e4ded5f6cebf88b&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-stiorla-vsi-article-en-template-ca774af6d17c5aa4&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-stiorla-vsi-article-en-register-f686471942a62ed4&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-11-stiorla-vsi-article-en-subscrip-001287415ca73cb8&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-10-prodali-ne-model",
       "title": "Лужа · Продали не модель",
       "category": "Фронтир",
