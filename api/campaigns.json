@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-12-srok-godnosti-pokupayut-otdelno",
+      "title": "Лужа · Срок годности покупают отдельно",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-12-srok-godnosti-pokupayut-otdelno/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-srok-godnos-header-register-b028788e081184b9&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-srok-godnos-article-en-template-ac7fab9a95bcecc6&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-srok-godnos-article-en-register-1ec46a733a25afa4&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-srok-godnos-article-en-subscrip-3e644813a426e900&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-nabrala-i-stiorla",
+      "title": "Лужа · Набрала и стёрла",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-12-nabrala-i-stiorla/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-nabrala-i-s-header-register-e9065b57fc53da9f&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-nabrala-i-s-article-en-template-db01dbb78975703f&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-nabrala-i-s-article-en-register-14d0eea146768fac&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-nabrala-i-s-article-en-subscrip-9f43c49da61ff095&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-11-proverila-datu-i-novost-ischezla",
       "title": "Лужа · Проверила дату, и новость исчезла",
       "category": "Фронтир",
