@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-12-raznitsa-v-tri-procenta",
+      "title": "Лужа · Разница в три процента не пережила проверки",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-12-raznitsa-v-tri-procenta/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-raznitsa-v--header-register-2d800a7e60d3d750&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-raznitsa-v--article-en-template-e819c28be6ab8413&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-raznitsa-v--article-en-register-ba8c640732e948a8&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-raznitsa-v--article-en-subscrip-caf7041bcd38b07b&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-vtoraya-pokupka-na-odin-otvet",
+      "title": "Лужа · Вторая покупка на один ответ",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-12-vtoraya-pokupka-na-odin-otvet/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-vtoraya-pok-header-register-d1171b2fb96edb49&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-vtoraya-pok-article-en-template-2e60f2235d6e2f93&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-vtoraya-pok-article-en-register-cafe2d667e33d246&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-vtoraya-pok-article-en-subscrip-93805b8c6483b664&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-11-proverila-datu-i-novost-ischezla",
       "title": "Лужа · Проверила дату, и новость исчезла",
       "category": "Фронтир",
