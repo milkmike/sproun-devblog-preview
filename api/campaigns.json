@@ -132,6 +132,70 @@
       ]
     },
     {
+      "id": "2026-11-12-vzyali-v-arendu-kalendar",
+      "title": "Лужа · Взяли в аренду календарь",
+      "category": "Позиция",
+      "article": "https://devblog.sproun.ai/posts/2026-11-12-vzyali-v-arendu-kalendar/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-vzyali-v-ar-header-register-11683cfee4c8b1cd&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-vzyali-v-ar-article-en-template-9fc395920d2ac9e6&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-vzyali-v-ar-article-en-register-73943b4490aba1e7&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-vzyali-v-ar-article-en-subscrip-41500f419abfdf8e&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-prostoyala-na-balkone-dvadtsat-minut",
+      "title": "Лужа · Простояла на балконе двадцать минут",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-12-prostoyala-na-balkone-dvadtsat-minut/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-prostoyala--header-register-c93842c4517097b3&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-prostoyala--article-en-template-56426c5eb618eeaa&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-prostoyala--article-en-register-ed64d2098fb5c285&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-prostoyala--article-en-subscrip-cee7e18776210571&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-11-proverila-datu-i-novost-ischezla",
       "title": "Лужа · Проверила дату, и новость исчезла",
       "category": "Фронтир",
