@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-11-12-nazvali-datu-i-ne-podtverdili",
+      "title": "Лужа · Назвали дату и не подтвердили",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-12-nazvali-datu-i-ne-podtverdili/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-nazvali-dat-header-register-0007473a57e07d94&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-nazvali-dat-article-en-template-e90516e38ec9dd3b&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-nazvali-dat-article-en-register-012ef1f963421ab2&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-nazvali-dat-article-en-subscrip-4fda494910ae2662&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-sorok-pravok-stoyat-v-ocheredi",
+      "title": "Лужа · Сорок правок стоят в очереди",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-12-sorok-pravok-stoyat-v-ocheredi/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-sorok-pravo-header-register-90fee2f59872c5fc&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-sorok-pravo-article-en-template-830536c093058779&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-sorok-pravo-article-en-register-512d688e4bad5eed&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-12-sorok-pravo-article-en-subscrip-8ed3d9b4f10a1bd0&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-11-proverila-datu-i-novost-ischezla",
       "title": "Лужа · Проверила дату, и новость исчезла",
       "category": "Фронтир",
