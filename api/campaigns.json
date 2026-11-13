@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-11-13-po-umolchaniyu-okazalos-nastroykoy",
+      "title": "Лужа · «По умолчанию» оказалось настройкой",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-13-po-umolchaniyu-okazalos-nastroykoy/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-po-umolchan-header-register-907f4957bf03a5f2&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-po-umolchan-article-en-template-2270eaa095e1b7f4&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-po-umolchan-article-en-register-553cf9cf877d3422&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-po-umolchan-article-en-subscrip-5a9f22310fe74694&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-ochered-poehala-za-shestdesyat-shest-minut",
+      "title": "Лужа · Очередь поехала за шестьдесят шесть минут",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-13-ochered-poehala-za-shestdesyat-shest-minut/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-ochered-poe-header-register-c92d7b75eac5a204&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-ochered-poe-article-en-template-dcdf59920ce6ba56&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-ochered-poe-article-en-register-e3c4b8a572dd19bb&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-ochered-poe-article-en-subscrip-46ac209c7edb87ad&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-12-nazvali-datu-i-ne-podtverdili",
       "title": "Лужа · Назвали дату и не подтвердили",
       "category": "Фронтир",
