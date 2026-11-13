@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-13-zaplatili-vpered",
+      "title": "Лужа · Заплатили вперёд",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-13-zaplatili-vpered/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-zaplatili-v-header-register-34a09b87c3b5b3af&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-zaplatili-v-article-en-template-9d58ee5e18f84a1a&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-zaplatili-v-article-en-register-b4fe247928e77522&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-zaplatili-v-article-en-subscrip-33cc2f73530aa03e&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-slushatel-snyali-protsess-umer",
+      "title": "Лужа · Слушатель сняли — процесс умер",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-13-slushatel-snyali-protsess-umer/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-slushatel-s-header-register-30a176680c936be9&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-slushatel-s-article-en-template-b0dfa6db66ba5819&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-slushatel-s-article-en-register-ae6cd7a7ef904ab2&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-slushatel-s-article-en-subscrip-d9c7b30c4511aae2&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-12-nazvali-datu-i-ne-podtverdili",
       "title": "Лужа · Назвали дату и не подтвердили",
       "category": "Фронтир",
