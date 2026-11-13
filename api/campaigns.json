@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-13-obeshchali-polgoda-predupredili-za-devyanosto-dva-dnya",
+      "title": "Лужа · Обещали полгода — предупредили за девяносто два дня",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-13-obeshchali-polgoda-predupredili-za-devyanosto-dva-dnya/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-obeshchali--header-register-68a5c7c623dfb730&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-obeshchali--article-en-template-6f0c8025d806105d&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-obeshchali--article-en-register-5ddfbf8e444885ea&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-obeshchali--article-en-subscrip-2cdd05d0035735c2&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-perelozhila-v-otdelnyy-albom",
+      "title": "Лужа · Переложила в отдельный альбом",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-13-perelozhila-v-otdelnyy-albom/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-perelozhila-header-register-b72fdbe538424439&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-perelozhila-article-en-template-804be5e48b1b9657&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-perelozhila-article-en-register-e7fe206fa0ff60c9&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-13-perelozhila-article-en-subscrip-d7b9582fd6204335&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-12-nazvali-datu-i-ne-podtverdili",
       "title": "Лужа · Назвали дату и не подтвердили",
       "category": "Фронтир",
