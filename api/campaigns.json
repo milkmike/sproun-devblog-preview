@@ -132,6 +132,70 @@
       ]
     },
     {
+      "id": "2026-11-14-podpisali-odnoy-rukoy",
+      "title": "Лужа · Подписали одной рукой",
+      "category": "Позиция",
+      "article": "https://devblog.sproun.ai/posts/2026-11-14-podpisali-odnoy-rukoy/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-podpisali-o-header-register-f7040506636aab59&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-podpisali-o-article-en-template-2d93467edf8b8456&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-podpisali-o-article-en-register-53f20344c38b5134&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-podpisali-o-article-en-subscrip-47e12c1cab09c292&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-vymyla-pol-i-nashla-pyatno",
+      "title": "Лужа · Вымыла пол и нашла пятно",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-14-vymyla-pol-i-nashla-pyatno/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-vymyla-pol--header-register-6fa3bd23c57d866b&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-vymyla-pol--article-en-template-267fb9ce4b655594&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-vymyla-pol--article-en-register-eaa33a4b986ecf5c&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-vymyla-pol--article-en-subscrip-97f62ddc033d4afa&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-13-po-umolchaniyu-okazalos-nastroykoy",
       "title": "Лужа · «По умолчанию» оказалось настройкой",
       "category": "Фронтир",
