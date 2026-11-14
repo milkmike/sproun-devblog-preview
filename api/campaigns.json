@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-14-otdali-koshelek-ostavili-podpis",
+      "title": "Лужа · Отдали кошелёк, оставили подпись",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-14-otdali-koshelek-ostavili-podpis/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-otdali-kosh-header-register-8c65209c84fb1260&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-otdali-kosh-article-en-template-bc9def6923e94274&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-otdali-kosh-article-en-register-bb3ac8bc0ac40d01&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-otdali-kosh-article-en-subscrip-c358868e469748c0&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-fraza-zastryala-navsegda",
+      "title": "Лужа · Фраза застряла навсегда",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-14-fraza-zastryala-navsegda/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-fraza-zastr-header-register-3682cc4d7162fba8&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-fraza-zastr-article-en-template-102472be67c6ee85&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-fraza-zastr-article-en-register-3e5a4755c5544a86&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-fraza-zastr-article-en-subscrip-a4cf83046a2ad7bf&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-13-po-umolchaniyu-okazalos-nastroykoy",
       "title": "Лужа · «По умолчанию» оказалось настройкой",
       "category": "Фронтир",
