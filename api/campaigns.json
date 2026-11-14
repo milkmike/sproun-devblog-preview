@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-14-stop-postavili-v-dvigatel",
+      "title": "Лужа · Стоп поставили в двигатель, а не в пульт",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-14-stop-postavili-v-dvigatel/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-stop-postav-header-register-f1f110d900609f34&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-stop-postav-article-en-template-8e7a181dcd82ad76&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-stop-postav-article-en-register-519adef3765729d1&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-stop-postav-article-en-subscrip-76ef740e62267a68&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-dozhgla-pervuyu-i-zazhgla-vtoruyu",
+      "title": "Лужа · Дожгла первую и зажгла вторую",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-14-dozhgla-pervuyu-i-zazhgla-vtoruyu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-dozhgla-per-header-register-00d7cf891db44825&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-dozhgla-per-article-en-template-a0fe217badb97904&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-dozhgla-per-article-en-register-19eb59c97c042bf2&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-dozhgla-per-article-en-subscrip-27ae71fa43588bef&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-13-po-umolchaniyu-okazalos-nastroykoy",
       "title": "Лужа · «По умолчанию» оказалось настройкой",
       "category": "Фронтир",
