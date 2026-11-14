@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-11-14-obeshchali-lomat-tolko-po-bolshoy-tsifre",
+      "title": "Лужа · Обещали ломать только по большой цифре",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-14-obeshchali-lomat-tolko-po-bolshoy-tsifre/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-obeshchali--header-register-bf9b5fc0503cd778&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-obeshchali--article-en-template-adaa6b1272764902&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-obeshchali--article-en-register-c75b42a092d440b2&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-obeshchali--article-en-subscrip-74c52530425ae697&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-ni-odna-tsifra-ne-sdvinulas",
+      "title": "Лужа · Ни одна цифра не сдвинулась",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-14-ni-odna-tsifra-ne-sdvinulas/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-ni-odna-tsi-header-register-91da74842c600914&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-ni-odna-tsi-article-en-template-0f35e6be8d516871&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-ni-odna-tsi-article-en-register-2bb04f29218b44c1&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-14-ni-odna-tsi-article-en-subscrip-65e415aab6259c89&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-13-po-umolchaniyu-okazalos-nastroykoy",
       "title": "Лужа · «По умолчанию» оказалось настройкой",
       "category": "Фронтир",
