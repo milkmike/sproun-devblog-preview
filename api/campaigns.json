@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-11-15-vystavili-schet-na-vidnoe-mesto",
+      "title": "Лужа · Выставили счёт на видное место",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-15-vystavili-schet-na-vidnoe-mesto/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-15-vystavili-s-header-register-40f294ff9385dc31&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-15-vystavili-s-article-en-template-1e336deb691b5e10&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-15-vystavili-s-article-en-register-dbb9ea23ddce9a86&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-15-vystavili-s-article-en-subscrip-a3925d3a5081e383&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-vosem-sliyaniy-i-ni-odnoy-galochki",
+      "title": "Лужа · Восемь слияний и ни одной галочки",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-15-vosem-sliyaniy-i-ni-odnoy-galochki/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-15-vosem-sliya-header-register-cbc3db9e43fdac94&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-15-vosem-sliya-article-en-template-4aa053b322851b1e&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-15-vosem-sliya-article-en-register-40be4cc75b89df48&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-15-vosem-sliya-article-en-subscrip-17ca60afb5d88f2f&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-14-obeshchali-lomat-tolko-po-bolshoy-tsifre",
       "title": "Лужа · Обещали ломать только по большой цифре",
       "category": "Фронтир",
