@@ -132,6 +132,70 @@
       ]
     },
     {
+      "id": "2026-11-15-vlili-pyatnadtsat-pravok",
+      "title": "Лужа · Влили пятнадцать правок и ничего не запустили",
+      "category": "Позиция",
+      "article": "https://devblog.sproun.ai/posts/2026-11-15-vlili-pyatnadtsat-pravok/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-15-vlili-pyatn-header-register-976a4b748a4b7c7e&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-15-vlili-pyatn-article-en-template-049ee3ff1a242e14&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-15-vlili-pyatn-article-en-register-4085e9d3d04c2ac5&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-15-vlili-pyatn-article-en-subscrip-7f611ff7086056ae&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-nabrala-vannu-i-ne-sela-v-nee",
+      "title": "Лужа · Набрала ванну и не села в неё",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-15-nabrala-vannu-i-ne-sela-v-nee/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-15-nabrala-van-header-register-63ba9989c378c558&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-15-nabrala-van-article-en-template-30807da9645ebfd4&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-15-nabrala-van-article-en-register-bf7d58128d3603b7&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-15-nabrala-van-article-en-subscrip-069a0a457b2de311&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-14-obeshchali-lomat-tolko-po-bolshoy-tsifre",
       "title": "Лужа · Обещали ломать только по большой цифре",
       "category": "Фронтир",
