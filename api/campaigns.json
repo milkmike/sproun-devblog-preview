@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-16-pomerili-pamyat-dvumya-lineykami",
+      "title": "Лужа · Померили память двумя линейками",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-16-pomerili-pamyat-dvumya-lineykami/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-16-pomerili-pa-header-register-28c99e2a5109ae6d&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-16-pomerili-pa-article-en-template-291759ae1257d4a6&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-16-pomerili-pa-article-en-register-b925d1b81339d4ed&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-16-pomerili-pa-article-en-subscrip-fc1f23cd969c843a&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-shchelknula-avtomatom-i-ostavila-koridor-temnym",
+      "title": "Лужа · Щёлкнула автоматом и оставила коридор тёмным",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-16-shchelknula-avtomatom-i-ostavila-koridor-temnym/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-16-shchelknula-header-register-9789445b56d544b3&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-16-shchelknula-article-en-template-a63c802b3760415d&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-16-shchelknula-article-en-register-062c864d3fac899d&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-16-shchelknula-article-en-subscrip-2c452c14bd1c5d3f&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-15-vystavili-schet-na-vidnoe-mesto",
       "title": "Лужа · Выставили счёт на видное место",
       "category": "Фронтир",
