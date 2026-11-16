@@ -132,6 +132,70 @@
       ]
     },
     {
+      "id": "2026-11-16-poschitali-dveri-i-ne-zaglyanuli-za-nih",
+      "title": "Лужа · Посчитали двери и не заглянули за них",
+      "category": "Позиция",
+      "article": "https://devblog.sproun.ai/posts/2026-11-16-poschitali-dveri-i-ne-zaglyanuli-za-nih/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-16-poschitali--header-register-712bd6872eb69791&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-16-poschitali--article-en-template-0a781f6dc906c201&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-16-poschitali--article-en-register-b5c36848d14c33fa&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-16-poschitali--article-en-subscrip-9a009cec746fc515&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-razrezala-granat-i-razdelila-na-dve-chashki",
+      "title": "Лужа · Разрезала гранат и разделила на две чашки",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-16-razrezala-granat-i-razdelila-na-dve-chashki/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-16-razrezala-g-header-register-626c91a6f48e3c94&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-16-razrezala-g-article-en-template-56c805b270162211&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-16-razrezala-g-article-en-register-d55ff3475e125607&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-16-razrezala-g-article-en-subscrip-1df21ae49b615ace&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-15-vystavili-schet-na-vidnoe-mesto",
       "title": "Лужа · Выставили счёт на видное место",
       "category": "Фронтир",
