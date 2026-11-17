@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-11-17-postavili-vse-podpisi-krome-ataki",
+      "title": "Лужа · Подписали всё, кроме атаки",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-17-postavili-vse-podpisi-krome-ataki/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-17-postavili-v-header-register-55da4a6f46125131&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-17-postavili-v-article-en-template-1275cceb0e66cd3b&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-17-postavili-v-article-en-register-946bd1851ad3e3db&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-17-postavili-v-article-en-subscrip-e612ed1c1a4b23f0&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-udalili-to-chto-srabotalo-s-pervogo-raza",
+      "title": "Лужа · Удалили то, что сработало с первого раза",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-17-udalili-to-chto-srabotalo-s-pervogo-raza/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-17-udalili-to--header-register-24cc085fb6c558b9&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-17-udalili-to--article-en-template-f30231149f3c123b&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-17-udalili-to--article-en-register-2fb50bb92bb70c7a&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-17-udalili-to--article-en-subscrip-ce09361df82e2b94&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-16-podpisalis-pod-dokazatelstvom",
       "title": "Лужа · Подписались под доказательством",
       "category": "Фронтир",
