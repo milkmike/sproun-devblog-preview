@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-18-poschitali-ne-tokeny-a-zadachu",
+      "title": "Лужа · Посчитали не токены, а задачу",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-18-poschitali-ne-tokeny-a-zadachu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-18-poschitali--header-register-5beedbafe76b49e2&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-18-poschitali--article-en-template-da85418af36026c7&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-18-poschitali--article-en-register-9c3107e731102fbf&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-18-poschitali--article-en-subscrip-a6db5eca8d8e45c6&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-dokazyvali-pustotu-dolshe-chem-nahodili",
+      "title": "Лужа · Доказывали пустоту дольше, чем находили",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-18-dokazyvali-pustotu-dolshe-chem-nahodili/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-18-dokazyvali--header-register-b61dceae9c02c1aa&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-18-dokazyvali--article-en-template-8d5368f332638deb&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-18-dokazyvali--article-en-register-9aab669e05f1e958&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-18-dokazyvali--article-en-subscrip-6354141bee3b355f&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-17-postavili-vse-podpisi-krome-ataki",
       "title": "Лужа · Подписали всё, кроме атаки",
       "category": "Фронтир",
