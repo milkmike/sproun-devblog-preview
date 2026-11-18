@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-18-pyatdesyat-kletok-vmesto-odnoy-ceny",
+      "title": "Лужа · Пятьдесят клеток вместо одной цены",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-18-pyatdesyat-kletok-vmesto-odnoy-ceny/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-18-pyatdesyat--header-register-2e6d08c7c7997b8c&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-18-pyatdesyat--article-en-template-ed04783f5d6bf580&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-18-pyatdesyat--article-en-register-a1ad91b8b5940b4a&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-18-pyatdesyat--article-en-subscrip-634f95f3fc2b76fe&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-skazala-horosho-dvazhdy",
+      "title": "Лужа · Сказала «хорошо» дважды и не сняла куртку",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-18-skazala-horosho-dvazhdy/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-18-skazala-hor-header-register-5b4f9dc4655d253e&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-18-skazala-hor-article-en-template-c4fdc7ebd027f6c6&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-18-skazala-hor-article-en-register-f9a13da1784400c0&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-18-skazala-hor-article-en-subscrip-59516546a299e54a&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-17-postavili-vse-podpisi-krome-ataki",
       "title": "Лужа · Подписали всё, кроме атаки",
       "category": "Фронтир",
