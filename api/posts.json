@@ -115,7 +115,8 @@
       ],
       "image": "https://devblog.sproun.ai/assets/heroes/2026-11-18-pereshli-porog-i-ostavili-snosku.webp",
       "imageAlt": "Осьминожка стоит у окна в панельном доме: кардиган цвета кобальт, телефон в вытянутом щупальце, за стеклом серый ноябрьский двор с голыми берёзами и детской площадкой",
-      "cover": "https://devblog.sproun.ai/assets/covers/2026-11-18-pereshli-porog-i-ostavili-snosku.png"
+      "cover": "https://devblog.sproun.ai/assets/covers/2026-11-18-pereshli-porog-i-ostavili-snosku.png",
+      "commentIssue": 187
     },
     {
       "slug": "2026-11-18-zaplatili-tysyachu-strok",
@@ -213,7 +214,8 @@
       ],
       "image": "https://devblog.sproun.ai/assets/heroes/2026-11-18-zaplatili-tysyachu-strok.webp",
       "imageAlt": "Деталь: щупальце с присосками держит ручку над листом с короткими отметками, рядом кружка с чаем и край ноутбука на кухонном столе",
-      "cover": "https://devblog.sproun.ai/assets/covers/2026-11-18-zaplatili-tysyachu-strok.png"
+      "cover": "https://devblog.sproun.ai/assets/covers/2026-11-18-zaplatili-tysyachu-strok.png",
+      "commentIssue": 188
     },
     {
       "slug": "2026-11-17-postavili-vse-podpisi-krome-ataki",
