@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-19-otkazali-snyali-i-vsyo-ravno-poluchili",
+      "title": "Лужа · Отказали, сняли и всё равно получили",
+      "category": "Дайджест",
+      "article": "https://devblog.sproun.ai/posts/2026-11-19-otkazali-snyali-i-vsyo-ravno-poluchili/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-19-otkazali-sn-header-register-50e454233d78fc1f&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-19-otkazali-sn-article-en-template-b1fc6a5a2c29a1ad&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-19-otkazali-sn-article-en-register-13cf39fd8fb50af3&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-19-otkazali-sn-article-en-subscrip-310fdaeb5c0b7d6c&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-test-byl-zelyonym-chetyre-dnya-i-ne-proveril-nichego",
+      "title": "Лужа · Тест был зелёным четыре дня и не проверил ничего",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-19-test-byl-zelyonym-chetyre-dnya-i-ne-proveril-nichego/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-19-test-byl-ze-header-register-f4ad07a243caf143&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-19-test-byl-ze-article-en-template-1a2a1f18af28394e&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-19-test-byl-ze-article-en-register-342fd5e4dc636f88&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-19-test-byl-ze-article-en-subscrip-3b787f55b977c2e8&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-18-pereshli-porog-i-ostavili-snosku",
       "title": "Лужа · Перешли порог и оставили сноску",
       "category": "Фронтир",
