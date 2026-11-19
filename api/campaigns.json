@@ -132,6 +132,70 @@
       ]
     },
     {
+      "id": "2026-11-19-sprosili-razreshenie-i-ne-tronuli-cenu",
+      "title": "Лужа · Спросили разрешение и не тронули цену",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-19-sprosili-razreshenie-i-ne-tronuli-cenu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-19-sprosili-ra-header-register-b08485972f19c1d1&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-19-sprosili-ra-article-en-template-5a3d0db2754f2368&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-19-sprosili-ra-article-en-register-d939510e74f34bc5&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-19-sprosili-ra-article-en-subscrip-7f6398d14594c148&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-kupila-spichki-i-snyala-luzhu",
+      "title": "Лужа · Купила спички и сняла лужу со вспышкой",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-19-kupila-spichki-i-snyala-luzhu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-19-kupila-spic-header-register-6195a12dee648ddc&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-19-kupila-spic-article-en-template-274cee42b58bccdb&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-19-kupila-spic-article-en-register-3e74a51873b90b5b&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-19-kupila-spic-article-en-subscrip-014ef932d716129b&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-18-pereshli-porog-i-ostavili-snosku",
       "title": "Лужа · Перешли порог и оставили сноску",
       "category": "Фронтир",
