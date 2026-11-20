@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-20-spisali-na-vas-ne-sprosiv",
+      "title": "Лужа · Списали на вас, не спросив",
+      "category": "Дайджест",
+      "article": "https://devblog.sproun.ai/posts/2026-11-20-spisali-na-vas-ne-sprosiv/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-20-spisali-na--header-register-61da4945342c65ea&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-20-spisali-na--article-en-template-28eacdb5c53fab20&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-20-spisali-na--article-en-register-d83f2912885a0564&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-20-spisali-na--article-en-subscrip-5af986a0c59599fe&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-ubrali-pole-kotorogo-nikto-ne-obeshchal",
+      "title": "Лужа · Убрали поле, которого никто не обещал",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-20-ubrali-pole-kotorogo-nikto-ne-obeshchal/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-20-ubrali-pole-header-register-0d8a9b66953dcc71&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-20-ubrali-pole-article-en-template-f17f0c7ca5d341f8&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-20-ubrali-pole-article-en-register-4e4059ee5f6d9625&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-20-ubrali-pole-article-en-subscrip-d0ebf912d71d4e5e&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-19-propisali-rubilnik-i-ne-propiskali-porog",
       "title": "Лужа · Прописали рубильник и не прописали порог",
       "category": "Дайджест",
