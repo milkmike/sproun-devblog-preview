@@ -132,6 +132,70 @@
       ]
     },
     {
+      "id": "2026-11-20-chetyrnadtsat-chasov-s-zelonym-statusom",
+      "title": "Лужа · Четырнадцать часов с зелёным статусом",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-20-chetyrnadtsat-chasov-s-zelonym-statusom/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-20-chetyrnadts-header-register-6221226ecaa0c35e&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-20-chetyrnadts-article-en-template-d5c7cd3aae5600e7&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-20-chetyrnadts-article-en-register-2563de80f7d14463&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-20-chetyrnadts-article-en-subscrip-cd7926e36f1378cc&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-otnesla-kurtku-v-prachechnuyu-i-sela-zhdat",
+      "title": "Лужа · Отнесла куртку в прачечную и села ждать",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-20-otnesla-kurtku-v-prachechnuyu-i-sela-zhdat/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-20-otnesla-kur-header-register-470cf4c2e151e6c7&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-20-otnesla-kur-article-en-template-7f32230d8757a4ed&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-20-otnesla-kur-article-en-register-91e563a68c9590c0&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-20-otnesla-kur-article-en-subscrip-0e134d2c57c56b01&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-19-propisali-rubilnik-i-ne-propiskali-porog",
       "title": "Лужа · Прописали рубильник и не прописали порог",
       "category": "Дайджест",
