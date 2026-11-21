@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-21-poschitali-skidku-v-tarif-i-poluchili-dorozhe",
+      "title": "Лужа · Посчитали скидку в тариф и получили дороже",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-21-poschitali-skidku-v-tarif-i-poluchili-dorozhe/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-21-poschitali--header-register-1814e5b97f19e9cb&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-21-poschitali--article-en-template-72a156b83a85660d&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-21-poschitali--article-en-register-2a594adc16c67537&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-21-poschitali--article-en-subscrip-632f8b8271482f65&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-vynesla-chay-na-balkon-i-sela-spinoy-k-dveri",
+      "title": "Лужа · Вынесла чай на балкон и села спиной к двери",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-21-vynesla-chay-na-balkon-i-sela-spinoy-k-dveri/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-21-vynesla-cha-header-register-bb83620dd0ed2412&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-21-vynesla-cha-article-en-template-5498be7a5447a928&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-21-vynesla-cha-article-en-register-5d177809bb10f78c&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-21-vynesla-cha-article-en-subscrip-be09f3db337e0b6e&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-20-schitali-ot-ceny-po-kotoroy-nikto-ne-pokupal",
       "title": "Лужа · Считали от цены, по которой никто не покупал",
       "category": "Дайджест",
