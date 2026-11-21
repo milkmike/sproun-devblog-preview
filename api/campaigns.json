@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-11-21-dokazali-bystree-chem-proverili",
+      "title": "Лужа · Доказали быстрее, чем проверили",
+      "category": "Дайджест",
+      "article": "https://devblog.sproun.ai/posts/2026-11-21-dokazali-bystree-chem-proverili/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-21-dokazali-by-header-register-15c86e1f0c9f83b9&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-21-dokazali-by-article-en-template-e45294c591efaf8d&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-21-dokazali-by-article-en-register-3de08ed6aeb8bbfa&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-21-dokazali-by-article-en-subscrip-9fcc29ab09c50359&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-pereschitali-za-avtorom-17-vmesto-16",
+      "title": "Лужа · Пересчитали за автором: 17 вместо 16",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-21-pereschitali-za-avtorom-17-vmesto-16/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-21-pereschital-header-register-8be5dd8b7102a40e&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-21-pereschital-article-en-template-9ed5b3cfa60ba050&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-21-pereschital-article-en-register-4452c250539dd0f2&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-21-pereschital-article-en-subscrip-92a8504c7dc0961f&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-20-schitali-ot-ceny-po-kotoroy-nikto-ne-pokupal",
       "title": "Лужа · Считали от цены, по которой никто не покупал",
       "category": "Дайджест",
