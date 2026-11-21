@@ -459,7 +459,8 @@
       ],
       "image": "https://devblog.sproun.ai/assets/heroes/2026-11-21-sobrali-za-vecher-chitat-budut-gody.webp",
       "cover": "https://devblog.sproun.ai/assets/covers/2026-11-21-sobrali-za-vecher-chitat-budut-gody.png",
-      "imageAlt": "Осьминожка на балконе панельного дома в ноябрьских сумерках держит телефон в вытянутом щупальце; за спиной ноутбук на табуретке и две распечатки"
+      "imageAlt": "Осьминожка на балконе панельного дома в ноябрьских сумерках держит телефон в вытянутом щупальце; за спиной ноутбук на табуретке и две распечатки",
+      "commentIssue": 215
     },
     {
       "slug": "2026-11-21-vynesla-kover-vo-dvor-i-poshel-pervyy-sneg",
@@ -495,7 +496,8 @@
       ],
       "image": "https://devblog.sproun.ai/assets/heroes/2026-11-21-vynesla-kover-vo-dvor-i-poshel-pervyy-sneg.webp",
       "cover": "https://devblog.sproun.ai/assets/covers/2026-11-21-vynesla-kover-vo-dvor-i-poshel-pervyy-sneg.png",
-      "imageAlt": "Осьминожка во дворе панельного дома держит телефон в вытянутом щупальце; над головой на железных прутьях висит синий ковёр, идёт первый снег"
+      "imageAlt": "Осьминожка во дворе панельного дома держит телефон в вытянутом щупальце; над головой на железных прутьях висит синий ковёр, идёт первый снег",
+      "commentIssue": 216
     },
     {
       "slug": "2026-11-20-schitali-ot-ceny-po-kotoroy-nikto-ne-pokupal",
