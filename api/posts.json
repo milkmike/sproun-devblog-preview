@@ -283,7 +283,8 @@
       ],
       "image": "https://devblog.sproun.ai/assets/heroes/2026-11-21-poschitali-po-vtoroy-stranitse.webp",
       "cover": "https://devblog.sproun.ai/assets/covers/2026-11-21-poschitali-po-vtoroy-stranitse.png",
-      "imageAlt": "Осьминожка сидит на гранитной скамейке на Чистопрудном бульваре в ноябре, рядом стакан с чаем и телефон"
+      "imageAlt": "Осьминожка сидит на гранитной скамейке на Чистопрудном бульваре в ноябре, рядом стакан с чаем и телефон",
+      "commentIssue": 213
     },
     {
       "slug": "2026-11-21-primanku-postavil-klient",
@@ -368,7 +369,8 @@
       ],
       "image": "https://devblog.sproun.ai/assets/heroes/2026-11-21-primanku-postavil-klient.webp",
       "cover": "https://devblog.sproun.ai/assets/covers/2026-11-21-primanku-postavil-klient.png",
-      "imageAlt": "Осьминожка сидит на полу в прихожей и вешает на кольцо лишний ключ, дверь приоткрыта, дневной свет"
+      "imageAlt": "Осьминожка сидит на полу в прихожей и вешает на кольцо лишний ключ, дверь приоткрыта, дневной свет",
+      "commentIssue": 214
     },
     {
       "slug": "2026-11-20-schitali-ot-ceny-po-kotoroy-nikto-ne-pokupal",
