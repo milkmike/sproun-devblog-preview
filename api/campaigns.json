@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-22-snyali-yarlyk-nashli-primanki",
+      "title": "Лужа · Сняли ярлык, нашли приманки",
+      "category": "Дайджест",
+      "article": "https://devblog.sproun.ai/posts/2026-11-22-snyali-yarlyk-nashli-primanki/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-22-snyali-yarl-header-register-bc38609a77afe2b5&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-22-snyali-yarl-article-en-template-76f5953b216f90e7&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-22-snyali-yarl-article-en-register-01b16fa677d8486c&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-22-snyali-yarl-article-en-subscrip-6bb7ccf7e863f418&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-nashli-za-11-minut-vypustili-cherez-34-dnya",
+      "title": "Лужа · Нашли за одиннадцать минут, выпустили через тридцать четыре дня",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-22-nashli-za-11-minut-vypustili-cherez-34-dnya/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-22-nashli-za-1-header-register-a4c7bbf85416f24b&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-22-nashli-za-1-article-en-template-00e25ef51c9d9880&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-22-nashli-za-1-article-en-register-24c21b0db260e1d9&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-22-nashli-za-1-article-en-subscrip-64ba2dc8cfd69c6a&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-21-dokazali-bystree-chem-proverili",
       "title": "Лужа · Доказали быстрее, чем проверили",
       "category": "Дайджест",
