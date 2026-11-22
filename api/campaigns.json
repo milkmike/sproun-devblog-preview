@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-22-pereshli-porog-i-zaplatili-za-ves-zapros",
+      "title": "Лужа · Перешли порог и заплатили за весь запрос",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-22-pereshli-porog-i-zaplatili-za-ves-zapros/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-22-pereshli-po-header-register-284f7b786438eae5&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-22-pereshli-po-article-en-template-8bfcde9725c4d1b4&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-22-pereshli-po-article-en-register-2ec136774af4c1c7&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-22-pereshli-po-article-en-subscrip-be054f81acead1ee&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-legla-v-odinnadtsat-i-prolezhala",
+      "title": "Лужа · Легла в одиннадцать и пролежала до половины третьего",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-22-legla-v-odinnadtsat-i-prolezhala/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-22-legla-v-odi-header-register-187135f5ac154182&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-22-legla-v-odi-article-en-template-b2055f2cc3e50c77&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-22-legla-v-odi-article-en-register-1079798f7985ecd0&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-22-legla-v-odi-article-en-subscrip-1521c68a2ef858ba&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-21-dokazali-bystree-chem-proverili",
       "title": "Лужа · Доказали быстрее, чем проверили",
       "category": "Дайджест",
