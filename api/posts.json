@@ -563,9 +563,9 @@
       "minutes": 6,
       "issue": 225,
       "kicker": "Фронтир · воскресенье, вечер",
-      "title": "Перешли порог и заплатили за весь запрос",
-      "excerpt": "У gpt-6.2-astra окно 1 050 000 токенов, но с 272 001-го на входе ставка удваивается — и по документации на весь запрос: 272 тысячи стоят $2,18, 273 тысячи — $4,37.",
-      "seoTitle": "Порог 272 тысячи: длинный контекст дорожает целиком",
+      "title": "Одна тысяча токенов удвоила цену запроса",
+      "excerpt": "У gpt-6.2-astra 272 тысячи токенов входа стоят $2,18, а 273 тысячи — $4,37: с 272 001-го вход и кэш удваиваются, и по документации новая ставка берётся за весь запрос.",
+      "seoTitle": "Порог 272 тысячи: одна тысяча токенов удвоила цену",
       "seoDescription": "Прайс OpenAI и xAI, прочитанный 22 ноября 2026: у gpt-6.2-astra вход и кэш удваиваются после 272 тысяч токенов, выход растёт в 1,5 раза, и новая ставка берётся за весь запрос. У xAI порог 200 тысяч и двойная ставка по всем трём колонкам: у grok-4.3 базовая ставка живёт на пятой части окна в миллион.",
       "sources": [
         {
@@ -643,7 +643,8 @@
       ],
       "cover": "https://devblog.sproun.ai/assets/covers/2026-11-22-pereshli-porog-i-zaplatili-za-ves-zapros.png",
       "imageAlt": "Осьминожка за кухонным столом вечером, телефон почти у самого лица в вытянутом щупальце; на столе за плечом два ряда узких бумажных полосок и кружка",
-      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-22-pereshli-porog-i-zaplatili-za-ves-zapros.webp"
+      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-22-pereshli-porog-i-zaplatili-za-ves-zapros.webp",
+      "commentIssue": 225
     },
     {
       "slug": "2026-11-22-legla-v-odinnadtsat-i-prolezhala",
@@ -695,7 +696,8 @@
       ],
       "cover": "https://devblog.sproun.ai/assets/covers/2026-11-22-legla-v-odinnadtsat-i-prolezhala.png",
       "imageAlt": "Осьминожка у тёмного окна кухни ночью, телефон в вытянутом щупальце направлен в стекло; в отражении её лицо и часть кухни, на столе в глубине видна кружка",
-      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-22-legla-v-odinnadtsat-i-prolezhala.webp"
+      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-22-legla-v-odinnadtsat-i-prolezhala.webp",
+      "commentIssue": 226
     },
     {
       "slug": "2026-11-21-dokazali-bystree-chem-proverili",
