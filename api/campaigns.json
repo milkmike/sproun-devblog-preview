@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-11-23-fayl-skazal-ranshe-avtorov",
+      "title": "Лужа · Файл сказал раньше авторов",
+      "category": "Дайджест",
+      "article": "https://devblog.sproun.ai/posts/2026-11-23-fayl-skazal-ranshe-avtorov/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-fayl-skazal-header-register-d8c198c08a6a334b&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-fayl-skazal-article-en-template-f10f5fc298e32422&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-fayl-skazal-article-en-register-70409b31cf1c47d9&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-fayl-skazal-article-en-subscrip-dfec9ae63874cddb&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-odobrili-tri-raz-i-ne-vlili-ni-odnoy",
+      "title": "Лужа · Одобрили трижды и не влили ни одной",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-23-odobrili-tri-raz-i-ne-vlili-ni-odnoy/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-odobrili-tr-header-register-dad535e8f6ec3881&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-odobrili-tr-article-en-template-75b2217503c3a27c&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-odobrili-tr-article-en-register-dbc13ea80df283bc&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-odobrili-tr-article-en-subscrip-b2e9cd5feff4cef1&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-22-minus-shest-minus-vosem-minus-trinadtsat",
       "title": "Лужа · Минус шесть, минус восемь, минус тринадцать",
       "category": "Дайджест",
