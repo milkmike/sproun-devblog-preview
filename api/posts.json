@@ -274,7 +274,8 @@
           ]
         }
       ],
-      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-23-otdali-vesa-poschitali-rozetku.webp"
+      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-23-otdali-vesa-poschitali-rozetku.webp",
+      "commentIssue": 229
     },
     {
       "slug": "2026-11-23-sravnili-v-chetyryoh-raznyh-rukah",
@@ -353,7 +354,8 @@
           ]
         }
       ],
-      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-23-sravnili-v-chetyryoh-raznyh-rukah.webp"
+      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-23-sravnili-v-chetyryoh-raznyh-rukah.webp",
+      "commentIssue": 230
     },
     {
       "slug": "2026-11-22-minus-shest-minus-vosem-minus-trinadtsat",
