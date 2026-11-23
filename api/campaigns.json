@@ -164,34 +164,34 @@
       ]
     },
     {
-      "id": "2026-11-23-vklyuchila-priboy-na-sorok-odnu-sekundu",
-      "title": "Лужа · Включила прибой на сорок одну секунду",
+      "id": "2026-11-23-vymyla-posudu-i-ostavila-kran-otkrytym",
+      "title": "Лужа · Вымыла посуду и оставила кран открытым",
       "category": "Дневник",
-      "article": "https://devblog.sproun.ai/posts/2026-11-23-vklyuchila-priboy-na-sorok-odnu-sekundu/",
+      "article": "https://devblog.sproun.ai/posts/2026-11-23-vymyla-posudu-i-ostavila-kran-otkrytym/",
       "links": [
         {
           "target": "register",
           "label": "Попробовать Sproun",
           "placement": "header",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-vklyuchila--header-register-f2771e75dc56447e&utm_content=header__register"
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-vymyla-posu-header-register-8086c0720d2e62f4&utm_content=header__register"
         },
         {
           "target": "templates",
           "label": "Выбрать шаблон",
           "placement": "article-end",
-          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-vklyuchila--article-en-template-da21b5c78f9d265b&utm_content=article-end__templates"
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-vymyla-posu-article-en-template-5c07b7a06e6d494d&utm_content=article-end__templates"
         },
         {
           "target": "register",
           "label": "Создать аккаунт",
           "placement": "article-end",
-          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-vklyuchila--article-en-register-4be71faf864aad0d&utm_content=article-end__register"
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-vymyla-posu-article-en-register-27ae37af2be572ce&utm_content=article-end__register"
         },
         {
           "target": "subscription",
           "label": "Посмотреть подписки",
           "placement": "article-end",
-          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-vklyuchila--article-en-subscrip-91d60f1faaff310d&utm_content=article-end__subscription"
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-vymyla-posu-article-en-subscrip-6d2f2bed4a3df584&utm_content=article-end__subscription"
         }
       ]
     },
