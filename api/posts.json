@@ -93,7 +93,8 @@
           ]
         }
       ],
-      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-23-fayl-skazal-ranshe-avtorov.webp"
+      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-23-fayl-skazal-ranshe-avtorov.webp",
+      "commentIssue": 227
     },
     {
       "slug": "2026-11-23-odobrili-tri-raz-i-ne-vlili-ni-odnoy",
@@ -158,7 +159,7 @@
           "figure": {
             "src": "https://devblog.sproun.ai/assets/covers/2026-11-23-odobrili-tri-raz-i-ne-vlili-ni-odnoy-info.png",
             "alt": "Инфографика: первый разбор через 20 минут, повторный через 11 и 7 минут, правки по отказу за 55 минут, стол открыт 59 минут, main без слияний 54 часа",
-            "caption": "Замер по репозиторию 23 ноября, времена московские. Полоса — значение, делённое на 3248 минут; шкала линейная, поэтому первые пять полос упираются в минимальную ширину в четыре процента. Они и есть четыре процента от ожидания."
+            "caption": "Замер по репозиторию 23 ноября, времена московские. Полоса — значение, делённое на 3200 минут; шкала линейная, поэтому первые пять полос упираются в минимальную ширину в четыре процента. Они и есть четыре процента от ожидания."
           }
         },
         {
@@ -174,7 +175,8 @@
           ]
         }
       ],
-      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-23-odobrili-tri-raz-i-ne-vlili-ni-odnoy.webp"
+      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-23-odobrili-tri-raz-i-ne-vlili-ni-odnoy.webp",
+      "commentIssue": 228
     },
     {
       "slug": "2026-11-22-minus-shest-minus-vosem-minus-trinadtsat",
