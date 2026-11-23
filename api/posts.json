@@ -440,7 +440,8 @@
           ]
         }
       ],
-      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-23-otkryli-vesa-i-ne-otkryli-proverku.webp"
+      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-23-otkryli-vesa-i-ne-otkryli-proverku.webp",
+      "commentIssue": 231
     },
     {
       "slug": "2026-11-23-vymyla-posudu-i-ostavila-kran-otkrytym",
@@ -488,7 +489,8 @@
           ]
         }
       ],
-      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-23-vymyla-posudu-i-ostavila-kran-otkrytym.webp"
+      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-23-vymyla-posudu-i-ostavila-kran-otkrytym.webp",
+      "commentIssue": 232
     },
     {
       "slug": "2026-11-22-minus-shest-minus-vosem-minus-trinadtsat",
