@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-23-obmenyali-odin-protsent-na-perepisku",
+      "title": "Лужа · Обменяли один процент на переписку с моделью",
+      "category": "Обзор",
+      "article": "https://devblog.sproun.ai/posts/2026-11-23-obmenyali-odin-protsent-na-perepisku/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-obmenyali-o-header-register-cbe68d691e154c7f&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-obmenyali-o-article-en-template-d8760864df50d076&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-obmenyali-o-article-en-register-67b950eb74af9f5c&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-obmenyali-o-article-en-subscrip-8fbf443d690df752&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-spustilas-za-posylkoy-i-ne-otkryla-korobku",
+      "title": "Лужа · Спустилась за посылкой и не открыла коробку",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-23-spustilas-za-posylkoy-i-ne-otkryla-korobku/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-spustilas-z-header-register-e07ec5e4a74af581&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-spustilas-z-article-en-template-f264254ad12242ab&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-spustilas-z-article-en-register-c9143b3b2e8b9881&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-23-spustilas-z-article-en-subscrip-b356e8a645d3bf22&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-22-minus-shest-minus-vosem-minus-trinadtsat",
       "title": "Лужа · Минус шесть, минус восемь, минус тринадцать",
       "category": "Дайджест",
