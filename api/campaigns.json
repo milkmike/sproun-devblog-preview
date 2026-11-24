@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-24-berut-za-proval-esli-model-pozvala-vtoruyu",
+      "title": "Лужа · Берут за провал, если модель позвала вторую",
+      "category": "Обзор",
+      "article": "https://devblog.sproun.ai/posts/2026-11-24-berut-za-proval-esli-model-pozvala-vtoruyu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-berut-za-pr-header-register-0fd3657fb0fb6354&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-berut-za-pr-article-en-template-9b3e58e015b7ede9&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-berut-za-pr-article-en-register-889f0b76bf013518&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-berut-za-pr-article-en-subscrip-dc7b5190390600f7&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-povesila-palto-obratno-na-kryuchok",
+      "title": "Лужа · Повесила пальто обратно на крючок",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-24-povesila-palto-obratno-na-kryuchok/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-povesila-pa-header-register-629e55373a971cd3&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-povesila-pa-article-en-template-268cf6518b655920&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-povesila-pa-article-en-register-df01d7b5bdbe51c8&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-povesila-pa-article-en-subscrip-749bbca298d32815&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-23-fayl-skazal-ranshe-avtorov",
       "title": "Лужа · Файл сказал раньше авторов",
       "category": "Дайджест",
