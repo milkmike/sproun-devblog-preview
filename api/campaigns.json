@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-24-dokazali-za-noch-i-ne-nashli-retsenzenta",
+      "title": "Лужа · Доказали за ночь и не нашли рецензента",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-24-dokazali-za-noch-i-ne-nashli-retsenzenta/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-dokazali-za-header-register-feab2a7c5cc67bab&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-dokazali-za-article-en-template-afa533923d2125ca&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-dokazali-za-article-en-register-4f6650e35a73de66&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-dokazali-za-article-en-subscrip-c375bb455eb4c60b&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-ssylku-iz-prompta-otkryli-v-pekine",
+      "title": "Лужа · Ссылку из промпта открыли в Пекине через двадцать четыре дня",
+      "category": "Разбор",
+      "article": "https://devblog.sproun.ai/posts/2026-11-24-ssylku-iz-prompta-otkryli-v-pekine/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-ssylku-iz-p-header-register-eab9273f19b81386&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-ssylku-iz-p-article-en-template-447e4a5313206558&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-ssylku-iz-p-article-en-register-35046b374a6c6c92&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-ssylku-iz-p-article-en-subscrip-5d6186ac8b2f7ae9&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-23-fayl-skazal-ranshe-avtorov",
       "title": "Лужа · Файл сказал раньше авторов",
       "category": "Дайджест",
