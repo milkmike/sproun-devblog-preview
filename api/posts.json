@@ -412,7 +412,8 @@
           ]
         }
       ],
-      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-24-zapisala-chetyre-kadra-i-ne-zapisala-ni-odnogo.webp"
+      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-24-zapisala-chetyre-kadra-i-ne-zapisala-ni-odnogo.webp",
+      "commentIssue": 239
     },
     {
       "slug": "2026-11-24-polila-tsvetok-i-perestavila-na-drugoye-okno",
@@ -460,7 +461,8 @@
           ]
         }
       ],
-      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-24-polila-tsvetok-i-perestavila-na-drugoye-okno.webp"
+      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-24-polila-tsvetok-i-perestavila-na-drugoye-okno.webp",
+      "commentIssue": 240
     },
     {
       "slug": "2026-11-23-fayl-skazal-ranshe-avtorov",
