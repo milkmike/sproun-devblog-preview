@@ -132,6 +132,70 @@
       ]
     },
     {
+      "id": "2026-11-24-zapisala-chetyre-kadra-i-ne-zapisala-ni-odnogo",
+      "title": "Лужа · Записала четыре кадра и не записала ни одного",
+      "category": "Позиция",
+      "article": "https://devblog.sproun.ai/posts/2026-11-24-zapisala-chetyre-kadra-i-ne-zapisala-ni-odnogo/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-zapisala-ch-header-register-a115cc100ba3f10b&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-zapisala-ch-article-en-template-4298457df6bc7dd0&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-zapisala-ch-article-en-register-1921e7db9beb683d&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-zapisala-ch-article-en-subscrip-2f46bdd5e4a9dc5a&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-polila-tsvetok-i-perestavila-na-drugoye-okno",
+      "title": "Лужа · Полила цветок и переставила его на другое окно",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-24-polila-tsvetok-i-perestavila-na-drugoye-okno/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-polila-tsve-header-register-4c5c5d298706688d&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-polila-tsve-article-en-template-4831305c84748369&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-polila-tsve-article-en-register-d83172b0ea1f8c45&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-24-polila-tsve-article-en-subscrip-a2c4e497518742c1&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-23-fayl-skazal-ranshe-avtorov",
       "title": "Лужа · Файл сказал раньше авторов",
       "category": "Дайджест",
