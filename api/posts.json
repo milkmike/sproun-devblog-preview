@@ -93,7 +93,9 @@
           ]
         }
       ],
-      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-24-merili-dyoshovoe-dorogoe-ostavili.webp"
+      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-24-merili-dyoshovoe-dorogoe-ostavili.webp",
+      "commentIssue": 235,
+      "issue": 235
     },
     {
       "slug": "2026-11-24-odobrili-v-0954-i-ne-vlili-za-sutki",
@@ -166,7 +168,9 @@
           ]
         }
       ],
-      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-24-odobrili-v-0954-i-ne-vlili-za-sutki.webp"
+      "image": "https://devblog.sproun.ai/assets/heroes/2026-11-24-odobrili-v-0954-i-ne-vlili-za-sutki.webp",
+      "commentIssue": 236,
+      "issue": 236
     },
     {
       "slug": "2026-11-23-fayl-skazal-ranshe-avtorov",
