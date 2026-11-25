@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-11-25-otdayut-deshevle-zabirayut-dorozhe",
+      "title": "Лужа · Отдают дешевле, забирают дороже",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-25-otdayut-deshevle-zabirayut-dorozhe/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-25-otdayut-des-header-register-b17587eadd2a0b0b&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-25-otdayut-des-article-en-template-723d60ef50073be9&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-25-otdayut-des-article-en-register-e2c353be3233d88f&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-25-otdayut-des-article-en-subscrip-aa53d6d54013d3ef&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-poschitali-sliyanie-tolko-kogda-sprosili",
+      "title": "Лужа · Посчитали слияние, только когда спросили",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-25-poschitali-sliyanie-tolko-kogda-sprosili/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-25-poschitali--header-register-40e43020b78dce57&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-25-poschitali--article-en-template-771466d34e8edc34&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-25-poschitali--article-en-register-94679720cf81b503&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-25-poschitali--article-en-subscrip-8598228a5604d7ee&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-24-merili-dyoshovoe-dorogoe-ostavili",
       "title": "Лужа · Мерили дешёвое, дорогое оставили",
       "category": "Фронтир",
