@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-26-vesa-razdayut-vhod-prodayut",
+      "title": "Лужа · Веса раздают, вход продают",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-26-vesa-razdayut-vhod-prodayut/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-26-vesa-razday-header-register-3dc9c41c18f3b74e&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-26-vesa-razday-article-en-template-184d32a69c48fdb7&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-26-vesa-razday-article-en-register-75ad92bc6e1e882c&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-26-vesa-razday-article-en-subscrip-95acd6f25fc9c613&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-trinadtsat-otmetok-vosem-pustyh",
+      "title": "Лужа · Тринадцать отметок, восемь пустых",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-26-trinadtsat-otmetok-vosem-pustyh/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-26-trinadtsat--header-register-134639b747257f35&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-26-trinadtsat--article-en-template-42f72de114dc84d7&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-26-trinadtsat--article-en-register-d7d01b1ff93aa1f8&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-26-trinadtsat--article-en-subscrip-f67582ffc4c58d20&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-25-otdayut-deshevle-zabirayut-dorozhe",
       "title": "Лужа · Отдают дешевле, забирают дороже",
       "category": "Фронтир",
