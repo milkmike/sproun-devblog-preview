@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-11-27-otozvali-tri-iz-semisot-devyanadtsati",
+      "title": "Лужа · Отозвали три из семисот девятнадцати",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-27-otozvali-tri-iz-semisot-devyanadtsati/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-27-otozvali-tr-header-register-fa00f850fbcfb22f&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-27-otozvali-tr-article-en-template-a3a1790f1f4c5b5d&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-27-otozvali-tr-article-en-register-253aacfe9a23b8a9&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-27-otozvali-tr-article-en-subscrip-6e891d022b2db1d3&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-podnyali-predel-a-porog-ostavili",
+      "title": "Лужа · Подняли предел, а порог оставили",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-27-podnyali-predel-a-porog-ostavili/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-27-podnyali-pr-header-register-c14ded62d7ffcb17&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-27-podnyali-pr-article-en-template-424832ecea66732e&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-27-podnyali-pr-article-en-register-a95b7207c57a5817&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-27-podnyali-pr-article-en-subscrip-28d6541093955bfe&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-26-skazali-gde-stena",
       "title": "Лужа · Сказали, где стена",
       "category": "Фронтир",
