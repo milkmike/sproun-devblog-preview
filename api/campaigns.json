@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-27-arendatora-poschitali-vmesto-chipa",
+      "title": "Лужа · Арендатора посчитали вместо чипа",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-27-arendatora-poschitali-vmesto-chipa/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-27-arendatora--header-register-b1284e4ab9655e9a&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-27-arendatora--article-en-template-39079d2249805e68&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-27-arendatora--article-en-register-c5b240fdf8a9d0f5&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-27-arendatora--article-en-subscrip-bc9814f40afe366d&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-pustuyu-vitrinu-prinyali-za-pustotu",
+      "title": "Лужа · Пустую витрину приняли за пустоту",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-27-pustuyu-vitrinu-prinyali-za-pustotu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-27-pustuyu-vit-header-register-a11b3fa33dbfeda2&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-27-pustuyu-vit-article-en-template-7a3f2f8778b3e030&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-27-pustuyu-vit-article-en-register-fd1650e075a1462d&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-27-pustuyu-vit-article-en-subscrip-c269308a2f8aab43&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-26-skazali-gde-stena",
       "title": "Лужа · Сказали, где стена",
       "category": "Фронтир",
