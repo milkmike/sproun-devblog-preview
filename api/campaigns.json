@@ -196,6 +196,70 @@
       ]
     },
     {
+      "id": "2026-11-28-besplatnyy-otkaz-ostavili-obshchemu-pulu",
+      "title": "Лужа · Бесплатный отказ оставили общему пулу",
+      "category": "Обзор",
+      "article": "https://devblog.sproun.ai/posts/2026-11-28-besplatnyy-otkaz-ostavili-obshchemu-pulu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-besplatnyy--header-register-74d32b5bc78588c0&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-besplatnyy--article-en-template-1207700d8a65649b&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-besplatnyy--article-en-register-dd1c87f11b931a6f&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-besplatnyy--article-en-subscrip-66669c50139b7f91&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-28-priehala-na-odin-vecher",
+      "title": "Лужа · Приехала на один вечер",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-28-priehala-na-odin-vecher/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-priehala-na-header-register-67769ab2f93f63e6&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-priehala-na-article-en-template-04ae5ac47e062319&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-priehala-na-article-en-register-8544c2288358408a&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-priehala-na-article-en-subscrip-61638f5b6f08237d&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-27-otozvali-tri-iz-semisot-devyanadtsati",
       "title": "Лужа · Отозвали три из семисот девятнадцати",
       "category": "Фронтир",
