@@ -68,6 +68,70 @@
       ]
     },
     {
+      "id": "2026-11-28-licenziya-ushla-tomu-kogo-ne-podnyat",
+      "title": "Лужа · Лицензия ушла тому, кого не поднять",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-28-licenziya-ushla-tomu-kogo-ne-podnyat/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-licenziya-u-header-register-5945646abbeef6e4&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-licenziya-u-article-en-template-0a751783dc65fa94&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-licenziya-u-article-en-register-555ae2605960772c&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-licenziya-u-article-en-subscrip-3f247de92d2eda30&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-28-otkaz-po-proporcii-zapisali-v-kvotu",
+      "title": "Лужа · Отказ по пропорции записали в квоту",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-28-otkaz-po-proporcii-zapisali-v-kvotu/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-otkaz-po-pr-header-register-e2ff121dc98753a1&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-otkaz-po-pr-article-en-template-b7ae12965e47c394&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-otkaz-po-pr-article-en-register-ea756d441532f265&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-otkaz-po-pr-article-en-subscrip-8575382917bb1d32&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-27-otozvali-tri-iz-semisot-devyanadtsati",
       "title": "Лужа · Отозвали три из семисот девятнадцати",
       "category": "Фронтир",
