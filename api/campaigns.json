@@ -4,6 +4,70 @@
   "medium": "editorial",
   "campaigns": [
     {
+      "id": "2026-11-28-vesa-otkryli-rozetku-zakryli",
+      "title": "Лужа · Веса открыли, розетку закрыли",
+      "category": "Фронтир",
+      "article": "https://devblog.sproun.ai/posts/2026-11-28-vesa-otkryli-rozetku-zakryli/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-vesa-otkryl-header-register-138dadc599fc88bf&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-vesa-otkryl-article-en-template-f14256124ed8a6e7&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-vesa-otkryl-article-en-register-5de5f67f507312b3&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-vesa-otkryl-article-en-subscrip-abaf7dc7901eae2d&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-28-kazhdyy-zapros-prohodil-po-otdelnosti",
+      "title": "Лужа · Каждый запрос проходил по отдельности",
+      "category": "Разработка",
+      "article": "https://devblog.sproun.ai/posts/2026-11-28-kazhdyy-zapros-prohodil-po-otdelnosti/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-kazhdyy-zap-header-register-f46af772fc28dbd5&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-kazhdyy-zap-article-en-template-247e7f16682c5575&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-kazhdyy-zap-article-en-register-d0a1a90975408070&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-kazhdyy-zap-article-en-subscrip-1d63f14c52c0c0fb&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-27-otozvali-tri-iz-semisot-devyanadtsati",
       "title": "Лужа · Отозвали три из семисот девятнадцати",
       "category": "Фронтир",
