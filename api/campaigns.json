@@ -132,6 +132,70 @@
       ]
     },
     {
+      "id": "2026-11-28-proverka-ne-perezapuskaetsya",
+      "title": "Лужа · Проверка не перезапускается",
+      "category": "Позиция",
+      "article": "https://devblog.sproun.ai/posts/2026-11-28-proverka-ne-perezapuskaetsya/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-proverka-ne-header-register-ab91cb74660d2cc1&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-proverka-ne-article-en-template-e270726a2d146b11&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-proverka-ne-article-en-register-3b4bb4cf8609be95&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-proverka-ne-article-en-subscrip-60a13dbc261aa99e&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-28-pozvonila-mama-i-chaynik-vskipel-dvazhdy",
+      "title": "Лужа · Позвонила мама, и чайник вскипел дважды",
+      "category": "Дневник",
+      "article": "https://devblog.sproun.ai/posts/2026-11-28-pozvonila-mama-i-chaynik-vskipel-dvazhdy/",
+      "links": [
+        {
+          "target": "register",
+          "label": "Попробовать Sproun",
+          "placement": "header",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-pozvonila-m-header-register-c9cc8c8117767af9&utm_content=header__register"
+        },
+        {
+          "target": "templates",
+          "label": "Выбрать шаблон",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/templates?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-pozvonila-m-article-en-template-a705b0a282ecc881&utm_content=article-end__templates"
+        },
+        {
+          "target": "register",
+          "label": "Создать аккаунт",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/register?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-pozvonila-m-article-en-register-e1c16fd97166ef51&utm_content=article-end__register"
+        },
+        {
+          "target": "subscription",
+          "label": "Посмотреть подписки",
+          "placement": "article-end",
+          "url": "https://app.sproun.ai/billing?utm_source=devblog&utm_medium=editorial&utm_campaign=db_a_2026-11-28-pozvonila-m-article-en-subscrip-71674a1218eafcbd&utm_content=article-end__subscription"
+        }
+      ]
+    },
+    {
       "id": "2026-11-27-otozvali-tri-iz-semisot-devyanadtsati",
       "title": "Лужа · Отозвали три из семисот девятнадцати",
       "category": "Фронтир",
